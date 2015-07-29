@@ -7,7 +7,6 @@
 layout: frontpage
 title: "文记农庄"
 header:
-   title: "文记农庄"
    image_fullwidth: "unsplash_leaf_header.jpg"
 widget-1:
     title: "Blog & Portfolio"
