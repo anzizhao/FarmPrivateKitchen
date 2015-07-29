@@ -1,16 +1,12 @@
-- menu_name: "Services"
+- menu_name: "相关链接"
 
-- name: "Contact"
-  url: "/contact/"
-  class: "services-contact"
-  title: "Contact"
+- name: "豆瓣小组"
+  url: "http://www.douban.com/group/571768/"
+  class: "services-douban"
+  title: "一个豆瓣话题小组"
 
-- name: "RSS"
-  url: "/feed.xml"
-  class: "rss-link"
-  title: "Subscribe to RSS"
-
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  class: "sitemap-link"
-  title: "Sitemap for Google Webmastertools"
+- name: "google plus"
+  url: "https://plus.google.com/u/0/collection/MODLX"
+  class: "foundicon-google-plus"
+  title: "google +上关于农庄的一个收藏集"
+  

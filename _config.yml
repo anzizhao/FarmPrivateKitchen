@@ -12,11 +12,11 @@ title: "文记农庄"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: ""
+slogan: "Have a good time in wenji"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+description: "提供农庄的最新资讯,记录这里发生一切"
 
 
 # This URL is the main adresse. Don't include a slash at the end.
@@ -59,7 +59,7 @@ include: ['.htaccess']
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "en"
+#language: "cn"
 
 # Exclude these files from your production _site
 exclude:
