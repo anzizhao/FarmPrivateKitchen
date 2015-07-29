@@ -346,11 +346,11 @@ mark {
        url('../fonts/iconfont.ttf')  format('truetype'), /* Safari, Android, iOS */
        url('../fonts/iconfont.svg#svgFontName') format('svg'); /* Legacy iOS */
        /*url('../fonts/iconfont.svg#iconfont') format('svg'); [> Legacy iOS <]*/
-  src: url('../font/social_foundicons'); 
-  src: url('../fonts/social_foundicons.eot?#iefix') format('embedded-opentype'), 
-       url('../fonts/social_foundicons.woff') format('woff'), 
-       url('../fonts/social_foundicons.ttf')  format('truetype'),
-       url('../fonts/social_foundicons.svg#SocialFoundicons') format('svg');
+  /*src: url('../font/social_foundicons'); */
+  /*src: url('../fonts/social_foundicons.eot?#iefix') format('embedded-opentype'), */
+       /*url('../fonts/social_foundicons.woff') format('woff'), */
+       /*url('../fonts/social_foundicons.ttf')  format('truetype'),*/
+       /*url('../fonts/social_foundicons.svg#SocialFoundicons') format('svg');*/
 }
 
 .iconfont       { font-family: "iconfont"; }
