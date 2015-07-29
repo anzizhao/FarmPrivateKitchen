@@ -347,14 +347,14 @@ mark {
        url('../fonts/iconfont.svg#iconfont') format('svg'); /* Legacy iOS */
 }
 @font-face {
-  font-family: 'iconfont';
+  font-family: 'SocialFoundicons';
   src: url('../fonts/social_foundicons.eot'); 
   src: url('../fonts/social_foundicons.eot?#iefix') format('embedded-opentype'), 
        url('../fonts/social_foundicons.woff') format('woff'), 
        url('../fonts/social_foundicons.ttf')  format('truetype'),
-       url('../fonts/social_foundicons.svg#iconfont') format('svg');
+       url('../fonts/social_foundicons.svg#SocialFoundicons') format('svg');
 }
-.iconfont       { font-family: "iconfont"; }
+.iconfont       { font-family: "iconfont", "SocialFoundicons"; }
 .iconfont-48    { font-size: 48px; }
  
 /*.SocialFoundicons { font-family:  SocialFoundicons; }*/
