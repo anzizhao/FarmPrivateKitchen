@@ -344,16 +344,17 @@ mark {
        url('../fonts/iconfont.woff') format('woff'), /* Pretty Modern Browsers */
        url('../fonts/iconfont.ttf')  format('truetype'), /* Safari, Android, iOS */
        url('../fonts/iconfont.svg#iconfont') format('svg'); /* Legacy iOS */
-  src: url('../font/SocialFoundicons'); 
-  src: url('../fonts/SocialFoundicons.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/SocialFoundicons.woff') format('woff'), /* Pretty Modern Browsers */
-       url('../fonts/SocialFoundicons.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/SocialFoundicons.svg#SocialFoundicons') format('svg'); /* Legacy iOS */
+  src: url('../font/social_foundicons'); 
+  src: url('../fonts/social_foundicons.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/social_foundicons.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/social_foundicons.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/social_foundicons.svg#SocialFoundicons') format('svg'); /* Legacy iOS */
 }
 
-.iconfont       { font-family: iconfont, SocialFoundicons; }
+.iconfont       { font-family: iconfont; }
 .iconfont-48    { font-size: 48px; }
 
+.SocialFoundicons { font-family:  SocialFoundicons; }
 
 [data-icon]:before { content: attr(data-icon); }
 
