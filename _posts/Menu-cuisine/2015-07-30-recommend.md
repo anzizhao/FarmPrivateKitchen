@@ -7,7 +7,6 @@ breadcrumb: true
 categories:
     - Menu-cuisine 
 permalink: /Menu-cuisine/recommend/
-header:
 ---
 <div class="show-for-small">
 <div class="row">
