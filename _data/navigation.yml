@@ -5,6 +5,17 @@
 - title: "菜单&菜式" 
   url: "/Menu-cuisine/"
   side: left
+  dropdown:
+  - title: "最新菜式"
+    url: "/Menu-cuisine/newest"
+  - title: "本周优惠"
+    url: "/Menu-cuisine/discount"
+  - title: "文记推荐"
+    url: "/Menu-cuisine/recommend"
+  - title: "组合套餐"
+    url: "/Menu-cuisine/combine"
+  - title: "所有菜式"
+    url: "/Menu-cuisine/all"
 
 - title: "优惠&活动"
   url: "/Favor-activity/"
