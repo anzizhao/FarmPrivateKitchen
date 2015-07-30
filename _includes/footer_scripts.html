@@ -2,8 +2,16 @@
 
 {% if page.header.image_fullwidth %}
 <script>
-    $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
-    $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+    var is_mobi = navigator.userAgent.toLowerCase().match(/(ipod|iphone|android|coolpad|mmp|smartphone|midp|wap|xoom|symbian|j2me|blackberry|win ce)/i) != null;
+    var imageUrl ; 
+    if(is_mobi){
+        imageUrl =  "{{ site.urlimg }}{{ page.header.image_fullwidth_small }}";
+    }else {
+        imageUrl = "{{ site.urlimg }}{{ page.header.image_fullwidth }}";
+    }
+     
+    $("#masthead").backstretch(imageUrl, {fade: 700});
+    $("#masthead-with-text").backstretch(imageUrl, {fade: 700});
 </script>
 {% endif %}
 

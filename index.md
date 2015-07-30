@@ -8,8 +8,8 @@
 layout: frontpage
 title: "文记农庄"
 header:
-   (*image_fullwidth: "unsplash_leaf_header.jpg"*)
    image_fullwidth: "yuhouhehua3.jpg"
+   image_fullwidth_small: "yuhehua2.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
