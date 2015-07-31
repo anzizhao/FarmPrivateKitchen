@@ -8,7 +8,7 @@ header:
 permalink: "/Menu-cuisine/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.Menu-cuisine %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
