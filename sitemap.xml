@@ -1,53 +1,740 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-    {% unless post.published == false %}
+  
+    
     <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.sitemap.lastmod %}
-        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif post.date %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      {% if post.sitemap.changefreq %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-      {% else %}
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/typography/</loc>
+      
+        <lastmod>2015-11-16T00:00:00+08:00</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-      {% endif %}
-      {% if post.sitemap.priority %}
-        <priority>{{ post.sitemap.priority }}</priority>
-      {% else %}
+      
+      
         <priority>0.5</priority>
-      {% endif %}
+      
     </url>
-    {% endunless %}
-  {% endfor %}
-  {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" %}
+    
+  
+    
     <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif page.date %}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      {% if page.sitemap.changefreq %}
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-      {% else %}
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/comments/</loc>
+      
+        <lastmod>2015-11-15T00:00:00+08:00</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-      {% endif %}
-      {% if page.sitemap.priority %}
-        <priority>{{ page.sitemap.priority }}</priority>
-      {% else %}
-        <priority>0.3</priority>
-      {% endif %}
+      
+      
+        <priority>0.5</priority>
+      
     </url>
-    {% endunless %}
-  {% endfor %}
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/</loc>
+      
+        <lastmod>2015-10-11T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/wubeiji/</loc>
+      
+        <lastmod>2015-07-30T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/recommend/</loc>
+      
+        <lastmod>2015-07-30T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/newest/</loc>
+      
+        <lastmod>2015-07-30T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/discount/</loc>
+      
+        <lastmod>2015-07-30T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/combine/</loc>
+      
+        <lastmod>2015-07-30T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/all/</loc>
+      
+        <lastmod>2015-07-30T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/</loc>
+      
+        <lastmod>2015-03-12T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/header-with-text/</loc>
+      
+        <lastmod>2015-02-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/header-logo-only/</loc>
+      
+        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-color/</loc>
+      
+        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/header-full-width-image/</loc>
+      
+        <lastmod>2014-10-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-pattern/</loc>
+      
+        <lastmod>2014-10-08T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/gallery/</loc>
+      
+        <lastmod>2014-09-15T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/video/</loc>
+      
+        <lastmod>2014-09-14T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/grid/</loc>
+      
+        <lastmod>2014-09-13T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/portfolio/</loc>
+      
+        <lastmod>2014-09-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/page-fullwidth/</loc>
+      
+        <lastmod>2014-08-19T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/post-right-sidebar/</loc>
+      
+        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/page/</loc>
+      
+        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/breadcrumb/</loc>
+      
+        <lastmod>2014-07-10T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/post-left-sidebar/</loc>
+      
+        <lastmod>2014-07-09T00:00:00+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/404.html</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/blog/archive/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/changelog/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/contact/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/design/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/documentation/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/feed.xml</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/getting-started/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/headers/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/humans.txt</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/blog/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/info/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/redirect-page/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/roadmap/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/robots.txt</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/node_modules/grunt/node_modules/js-yaml/examples/sample_document.yaml</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/search/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/sitemap.xml</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/assets/css/styles_feeling_responsive.css</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/blog/page2/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/blog/page3/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/blog/page4/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://anzizhao.github.io/FarmPrivateKitchen/blog/page5/</loc>
+      
+        <lastmod>2015-07-31T16:19:57+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
 </urlset>
