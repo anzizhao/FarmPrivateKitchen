@@ -1,0 +1,12 @@
+- menu_name: "相关链接"
+
+- name: "农庄豆瓣小组"
+  url: "http://www.douban.com/group/571768/"
+  class: "icon-chat"
+  title: "关于文记农庄, 一个豆瓣话题小组"
+
+- name: "农庄google plus"
+  url: "https://plus.google.com/u/0/collection/MODLX"
+  class: "foundicon-google-plus"
+  title: "google +上关于文记农庄的一个收藏集"
+  
