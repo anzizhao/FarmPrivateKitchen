@@ -9,7 +9,7 @@ layout: frontpage
 title: "文记农庄"
 header:
    image_fullwidth: "yuhouhehua3.jpg"
-   image_fullwidth_small: "yuhehua2.jpg"
+   image_fullwidth_small: "Cyuhouhehua_256x.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'

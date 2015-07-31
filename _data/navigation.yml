@@ -25,10 +25,6 @@
   url: "/Cuisine-share/"
   side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
 - title: "联系" 
   url: "/contact/"
   side: right 
