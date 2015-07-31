@@ -25,6 +25,8 @@ description: "提供农庄的最新资讯,记录这里发生一切"
 url: "https://anzizhao.github.io/FarmPrivateKitchen"
 baseurl: ""
 
+#
+safe: false
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/anzizhao/FarmPrivateKitchen/edit/gh-pages
@@ -40,7 +42,7 @@ urlimg: "http://anzizhao.github.io/FarmPrivateKitchen/images/"
 
 # Logo size is 600x80 pixels
 #logo: "wenjilogo.png"
-logo: "" 
+#logo: "" 
 
 
 # Paginates all X entries
