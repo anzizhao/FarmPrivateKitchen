@@ -636,79 +636,15 @@ element&lt;/td&gt;
       </item>
     
       <item>
-        <title>最新推荐</title>
-        <description>&lt;div class=&quot;show-for-small&quot;&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-&lt;h3&gt;泸州老鸭汤(手机)&lt;/h3&gt;
-        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+        <title>本周优惠</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;优惠活动&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;夏日清凉大放送
+  凡在农庄消费一定数额,送新鲜鸡蛋做的甜品一份&lt;/li&gt;
+  &lt;li&gt;老同事相聚鱼场
+  xxx日xxx人相聚鱼场&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;show-for-large-up&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-12 columns&quot;&gt;
-            &lt;h2&gt;泸州老鸭汤(pc)&lt;/h2&gt;
-            &lt;h3&gt;Large Displays Two Columns&lt;/h3&gt;
-        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-    &lt;/div&gt;
-
-
-
-&lt;div id=&quot;bottom&quot; class=&quot;row t30&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/Menu-cuisine/newest/&quot;&gt;Next Post in MENU-CUISINE&lt;/a&gt;
-
-
-&lt;a class=&quot;button tiny radius&quot; href=&quot;/Menu-cuisine/combine/&quot;&gt;Previous Post in MENU-CUISINE&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
-
-
-
-    &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/discount/</link>
