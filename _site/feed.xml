@@ -480,6 +480,15 @@ element&lt;/td&gt;
       </item>
     
       <item>
+        <title>五杯鸡</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;五杯鸡&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/wubeiji/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/wubeiji/</guid>
+      </item>
+    
+      <item>
         <title>文记推荐</title>
         <description>&lt;ul&gt;
   &lt;li&gt;推荐菜式 泸州老鸭汤
@@ -515,6 +524,11 @@ element&lt;/td&gt;
 &lt;div id=&quot;bottom&quot; class=&quot;row t30&quot;&gt;
     &lt;div class=&quot;small-12 columns&quot;&gt;
       
+
+
+
+
+
 
 
 
@@ -651,6 +665,11 @@ element&lt;/td&gt;
 
 
 
+
+
+
+
+
 &lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/Menu-cuisine/discount/&quot;&gt;Next Post in MENU-CUISINE&lt;/a&gt;
 
 
@@ -672,41 +691,31 @@ element&lt;/td&gt;
         <title>所有菜式</title>
         <description>&lt;h3 id=&quot;section&quot;&gt;鸡类&lt;/h3&gt;
 &lt;div class=&quot;show-for-small&quot;&gt;
+
     &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-3 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt;&lt;strong&gt;烧鸡&lt;/strong&gt;&lt;/a&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+            &lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/wubeiji/&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-3 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt; &lt;strong&gt;桑拿鸡&lt;/strong&gt;&lt;/a&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+            &lt;a href=&quot;#&quot;&gt; &lt;em&gt;桑拿鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-3 columns&quot;&gt;
-           &lt;a href=&quot;#&quot;&gt; &lt;strong&gt;白切鸡&lt;/strong&gt;&lt;/a&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+           &lt;a href=&quot;#&quot;&gt; &lt;em&gt;白切鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
     &lt;/div&gt;
 
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt;&lt;strong&gt;五杯鸡&lt;/strong&gt;&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt; &lt;strong&gt;桑拿鸡&lt;/strong&gt;&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt; &lt;em&gt;桑拿鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-           &lt;a href=&quot;#&quot;&gt; &lt;strong&gt;白切鸡&lt;/strong&gt;&lt;/a&gt;
+           &lt;a href=&quot;#&quot;&gt; &lt;em&gt;白切鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
     &lt;/div&gt;
 
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-3 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt;&lt;strong&gt;五杯鸡&lt;/strong&gt;&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-3 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt; &lt;strong&gt;桑拿鸡&lt;/strong&gt;&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-3 columns&quot;&gt;
-           &lt;a href=&quot;#&quot;&gt; &lt;strong&gt;白切鸡&lt;/strong&gt;&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-    &lt;/div&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
@@ -754,48 +763,6 @@ image:
         <pubDate>Thu, 12 Mar 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/</guid>
-      </item>
-    
-      <item>
-        <title>Header With Text</title>
-        <description>&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/header-with-text/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/header-with-text/</guid>
       </item>
     
   </channel>
