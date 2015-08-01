@@ -481,11 +481,22 @@ element&lt;/td&gt;
     
       <item>
         <title>五杯鸡</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;五杯鸡&lt;/h2&gt;
+        <description>&lt;h4 id=&quot;brbr&quot;&gt;五杯鸡 &lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+
+&lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/images/caiyao1.jpg&quot;&gt;&lt;img data-caption=&quot;出炉&quot; src=&quot;http://127.0.0.1:4000/images/caiyao1.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/images/caiyao2.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://127.0.0.1:4000/images/caiyao2.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/images/caiyao3.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://127.0.0.1:4000/images/caiyao3.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section&quot;&gt;描述： 美味可口，人见人爱&lt;/h4&gt;
+
+&lt;h4 id=&quot;y25-&quot;&gt;价格： Y25 一份&lt;/h4&gt;
+
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://127.0.0.1:4000//Menu-cuisine/wubeiji/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/wubeiji/</guid>
+        <link>http://127.0.0.1:4000//Menu-cuisine/all/wubeiji/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/all/wubeiji/</guid>
       </item>
     
       <item>
@@ -524,11 +535,6 @@ element&lt;/td&gt;
 &lt;div id=&quot;bottom&quot; class=&quot;row t30&quot;&gt;
     &lt;div class=&quot;small-12 columns&quot;&gt;
       
-
-
-
-
-
 
 
 
@@ -665,11 +671,6 @@ element&lt;/td&gt;
 
 
 
-
-
-
-
-
 &lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/Menu-cuisine/discount/&quot;&gt;Next Post in MENU-CUISINE&lt;/a&gt;
 
 
@@ -694,7 +695,7 @@ element&lt;/td&gt;
 
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/wubeiji/&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://127.0.0.1:4000/Menu-cuisine/all/wubeiji/&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
             &lt;a href=&quot;#&quot;&gt; &lt;em&gt;桑拿鸡&lt;/em&gt;&lt;/a&gt;
