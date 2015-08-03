@@ -20,14 +20,22 @@ module.exports  = function(grunt) {
             ghPages: ["../FarmPrivateKitchen_gh-pages/*" ] 
             
         },
-        copy: {
+        copy_mate: {
             ghPages: {
-                files: [
-                    //{expand: true, flatten:true, src: ['_site/**'], dest: '../FarmPrivateKitchen_gh-pages/'},
-                    {expand: true,  src: ['_site/**'], dest: '../FarmPrivateKitchen_gh-pages/'},
-                ],
+                options: {
+                    type: "recursive"
+                },
+                src: "_site/",
+                destDir: '../FarmPrivateKitchen_gh-pages/'
             },
         },
+        //copy: {
+            //ghPages: {
+                //files: [
+                    //{expand:true,  flatten:true, src: ['_site/**'], dest: '../FarmPrivateKitchen_gh-pages/'},
+                //],
+            //},
+        //},
         gitadd: {
             ghPages:{
                 options: {
@@ -70,14 +78,17 @@ module.exports  = function(grunt) {
 
     // 加载包含 "uglify" 任务的插件。
     grunt.loadNpmTasks('grunt-contrib-uglify');
+    //这版本copy 不强大
     grunt.loadNpmTasks('grunt-contrib-copy');
+    grunt.loadNpmTasks('grunt-copy-mate');
     grunt.loadNpmTasks('grunt-git');
     grunt.loadNpmTasks('grunt-contrib-clean');
     // 默认被执行的任务列表。
     //grunt.registerTask('default', ['uglify', 'jshint']);
     grunt.registerTask('min', ['uglify']);
+    grunt.registerTask('cp', ['copy_mate:ghPages']);
     //更新另一个目录的gh-pages分支
-    grunt.registerTask('gh-cm', ['clean:ghPages', 'copy:ghPages', 'gitadd:ghPages', 'gitcommit:ghPages']);
+    grunt.registerTask('gh-cm', ['clean:ghPages', 'copy_mate:ghPages', 'gitadd:ghPages', 'gitcommit:ghPages']);
     grunt.registerTask('gh-push', ['gh-cm', 'gitpush:ghPages']);
     //grunt.registerTask('uglify', ['uglify']);
     //grunt.registerTask('jshint', ['jshint']);
