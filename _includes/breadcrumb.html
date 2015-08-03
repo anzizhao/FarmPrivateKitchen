@@ -6,12 +6,42 @@
 
 <nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
  <li><a href="{{ site.url }}">{{ site.data.language.breadcrumb_start }}</a></li>
+ <li><a href="{{ site.url }}">{{ site.data.language_cn.breadcrumb_start }}</a></li>
  {% assign crumbs = page.url | split: '/' %}
    {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
         <li class="current">{{ page.title }}</li>
     {% else %}
-        <li><a href="{{ site.url }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' }}</a>
+        <li><a href="{{ site.url }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">
+        {% assign hit = false %} 
+        {% for link in site.data.navigation %}
+            {% assign matchUrl = link.url | split:'/' | last %}
+            {% if matchUrl == crumb %}
+                {{ link.title }}
+                {% assign hit = true %} 
+                {% break %} 
+            {% endif %}
+
+            {% for dropdown in link.dropdown %}
+                {% assign matchUrl = dropdown.url | split:'/' | last %}
+                {% if matchUrl == crumb %}
+                     {{ dropdown.title }}
+                     {% assign hit = true %} 
+                     {% break %} 
+                {% endif %}
+            {% endfor %}
+
+            {% if hit %}
+                {% break %} 
+            {% endif %}
+        {% endfor %}
+
+        {% if hit == false %}
+            {{ crumb | replace:'-',' ' }}
+        {% endif %}
+
+        </a>
+        </li>
     {% endif %}
   {% endfor %}
 </nav>
