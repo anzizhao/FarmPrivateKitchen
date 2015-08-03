@@ -22,8 +22,8 @@ description: "提供农庄的最新资讯,记录这里发生一切"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-#url: "https://anzizhao.github.io/FarmPrivateKitchen"
-url: "http://127.0.0.1:4000/"
+url: "https://anzizhao.github.io/FarmPrivateKitchen"
+#url: "http://127.0.0.1:4000/"
 baseurl: ""
 
 #
@@ -38,8 +38,8 @@ improve_content: https://github.com/anzizhao/FarmPrivateKitchen/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-#urlimg: "http://anzizhao.github.io/FarmPrivateKitchen/images/"
-urlimg: "http://127.0.0.1:4000/images/"
+urlimg: "http://anzizhao.github.io/FarmPrivateKitchen/images/"
+#urlimg: "http://127.0.0.1:4000/images/"
 
 
 # Logo size is 600x80 pixels
@@ -60,7 +60,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 highlight: pygments
 excerpt_separator: "\n\n"
-exclude: []
+exclude: ['node_modules']
 include: ['.htaccess']
 
 
@@ -73,6 +73,7 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - node_modules
 
 
 #
