@@ -55,13 +55,6 @@ module.exports  = function(grunt) {
                     cwd: "../FarmPrivateKitchen_gh-pages" ,
                     message: ghPagesCommitMessage 
                 },
-                //files:[
-                    //{
-                        //src:["*"], 
-                        //expand: true,
-                        //cwd: "../FarmPrivateKitchen_gh-pages" 
-                    //}
-                //]
             }
         },
         gitpush: {
