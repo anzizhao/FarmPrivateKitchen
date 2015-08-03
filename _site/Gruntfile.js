@@ -23,7 +23,8 @@ module.exports  = function(grunt) {
         copy: {
             ghPages: {
                 files: [
-                    {expand: true, flatten:true, src: ['_site/**'], dest: '../FarmPrivateKitchen_gh-pages/'},
+                    //{expand: true, flatten:true, src: ['_site/**'], dest: '../FarmPrivateKitchen_gh-pages/'},
+                    {expand: true,  src: ['_site/**'], dest: '../FarmPrivateKitchen_gh-pages/'},
                 ],
             },
         },
