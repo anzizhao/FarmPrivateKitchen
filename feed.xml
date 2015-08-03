@@ -425,7 +425,7 @@ element&lt;/td&gt;
 &lt;/tbody&gt;&lt;/table&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 16 Nov 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//design/typography/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//design/typography/</guid>
       </item>
@@ -436,7 +436,7 @@ element&lt;/td&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 15 Nov 2015 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 15 Nov 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//design/comments/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//design/comments/</guid>
       </item>
@@ -474,7 +474,7 @@ element&lt;/td&gt;
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Sun, 11 Oct 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 11 Oct 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//design/no-header/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//design/no-header/</guid>
       </item>
@@ -494,7 +494,7 @@ element&lt;/td&gt;
 &lt;h4 id=&quot;y25-&quot;&gt;价格： Y25 一份&lt;/h4&gt;
 
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//Menu-cuisine/all/wubeiji/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/all/wubeiji/</guid>
       </item>
@@ -507,7 +507,7 @@ element&lt;/td&gt;
 ** 推荐指数:  几个星&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//Menu-cuisine/recommend/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/recommend/</guid>
       </item>
@@ -587,7 +587,7 @@ element&lt;/td&gt;
 
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//Menu-cuisine/newest/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/newest/</guid>
       </item>
@@ -603,7 +603,7 @@ element&lt;/td&gt;
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//Menu-cuisine/discount/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/discount/</guid>
       </item>
@@ -683,7 +683,7 @@ element&lt;/td&gt;
 
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//Menu-cuisine/combine/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/combine/</guid>
       </item>
@@ -719,7 +719,7 @@ element&lt;/td&gt;
 
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//Menu-cuisine/all/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/all/</guid>
       </item>
@@ -761,7 +761,7 @@ image:
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Thu, 12 Mar 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 +0800</pubDate>
         <link>http://127.0.0.1:4000//design/no-header-but-image/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//design/no-header-but-image/</guid>
       </item>
