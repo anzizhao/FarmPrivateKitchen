@@ -20,6 +20,15 @@ module.exports  = function(grunt) {
             ghPages: ["../FarmPrivateKitchen_gh-pages/*" ] 
             
         },
+        jekyll:{
+            options: {},
+            ghPages_build:{},
+            master_serve:{
+                options: {
+                    serve: true,
+                }
+            }
+        },
         copy_mate: {
             ghPages: {
                 options: {
@@ -76,12 +85,15 @@ module.exports  = function(grunt) {
     grunt.loadNpmTasks('grunt-copy-mate');
     grunt.loadNpmTasks('grunt-git');
     grunt.loadNpmTasks('grunt-contrib-clean');
+    grunt.loadNpmTasks('grunt-jekyll');
+    
     // 默认被执行的任务列表。
-    //grunt.registerTask('default', ['uglify', 'jshint']);
     grunt.registerTask('min', ['uglify']);
     grunt.registerTask('cp', ['copy_mate:ghPages']);
+    grunt.registerTask('serve', ['jekyll:master_serve']);
+    grunt.registerTask('build', ['jekyll:ghPages_build']);
     //更新另一个目录的gh-pages分支
-    grunt.registerTask('gh-cm', ['clean:ghPages', 'copy_mate:ghPages', 'gitadd:ghPages', 'gitcommit:ghPages']);
+    grunt.registerTask('gh-cm', ['build', 'clean:ghPages', 'copy_mate:ghPages', 'gitadd:ghPages', 'gitcommit:ghPages']);
     grunt.registerTask('gh-push', ['gh-cm', 'gitpush:ghPages']);
     //grunt.registerTask('uglify', ['uglify']);
     //grunt.registerTask('jshint', ['jshint']);
