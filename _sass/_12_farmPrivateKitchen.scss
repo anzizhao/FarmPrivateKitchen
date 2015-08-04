@@ -1,0 +1,35 @@
+.price {
+    padding: 5px 0;
+    line-height: 26px;
+    color: #999;
+    vertical-align: top
+}
+.price em {
+    color: #f40;
+    font-size: 16px;
+}
+
+.price span {
+    color: #f40;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.menu-classify{
+    padding-bottom: 24px;
+    overflow: hidden;
+    zoom: 1;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.button.small{
+    background-color: #3498DB;
+    border-right: 9px solid #2980B9;;
+    border-bottom: 5px solid #2980B9;
+    /*border-right: 9px solid #4D5654;*/
+    /*border-bottom: 4px solid #4D5654;*/
+}
+
+.footer-hyperlinks{
+    margin-bottom: 1rem; 
+}
