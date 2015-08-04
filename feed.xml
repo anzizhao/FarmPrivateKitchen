@@ -3,8 +3,8 @@
   <channel>
     <title>文记农庄</title>
     <description>提供农庄的最新资讯,记录这里发生一切</description>
-    <link>https://anzizhao.github.io/FarmPrivateKitchen/</link>
-    <atom:link href="https://anzizhao.github.io/FarmPrivateKitchen/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://127.0.0.1:4000//</link>
+    <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Wonderful Typography</title>
@@ -426,8 +426,8 @@ element&lt;/td&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/typography/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/typography/</guid>
+        <link>http://127.0.0.1:4000//design/typography/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//design/typography/</guid>
       </item>
     
       <item>
@@ -437,8 +437,8 @@ element&lt;/td&gt;
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/comments/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/comments/</guid>
+        <link>http://127.0.0.1:4000//design/comments/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//design/comments/</guid>
       </item>
     
       <item>
@@ -455,19 +455,19 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -475,8 +475,30 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Sun, 11 Oct 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/</guid>
+        <link>http://127.0.0.1:4000//design/no-header/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//design/no-header/</guid>
+      </item>
+    
+      <item>
+        <title>沙姜鸭</title>
+        <description>&lt;ul class=&quot;clearing-thumbs small-block-grid-1&quot; data-clearing=&quot;&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/images/shajiangya.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://127.0.0.1:4000/images/shajiangya.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;  美味可口，人见人爱&lt;/p&gt;
+
+&lt;div class=&quot;price&quot;&gt;价格:&amp;nbsp;&lt;em&gt;¥&lt;/em&gt;&lt;span&gt;29.00&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;言必信，行必果。————《论语·子路》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Tue, 04 Aug 2015 00:00:00 +0800</pubDate>
+        <link>http://127.0.0.1:4000//Menu-cuisine/all/shajiangya/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/all/shajiangya/</guid>
       </item>
     
       <item>
@@ -484,9 +506,9 @@ element&lt;/td&gt;
         <description>&lt;h4 id=&quot;brbr&quot;&gt;五杯鸡 &lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
 
 &lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao1.jpg&quot;&gt;&lt;img data-caption=&quot;出炉&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao1.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao2.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao2.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao3.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao3.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/images/caiyao1.jpg&quot;&gt;&lt;img data-caption=&quot;出炉&quot; src=&quot;http://127.0.0.1:4000/images/caiyao1.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/images/caiyao2.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://127.0.0.1:4000/images/caiyao2.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/images/caiyao3.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://127.0.0.1:4000/images/caiyao3.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;描述： 美味可口，人见人爱&lt;/h4&gt;
@@ -495,8 +517,8 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/all/wubeiji/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/all/wubeiji/</guid>
+        <link>http://127.0.0.1:4000//Menu-cuisine/all/wubeiji/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/all/wubeiji/</guid>
       </item>
     
       <item>
@@ -508,8 +530,8 @@ element&lt;/td&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/recommend/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/recommend/</guid>
+        <link>http://127.0.0.1:4000//Menu-cuisine/recommend/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/recommend/</guid>
       </item>
     
       <item>
@@ -588,8 +610,8 @@ element&lt;/td&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/newest/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/newest/</guid>
+        <link>http://127.0.0.1:4000//Menu-cuisine/newest/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/newest/</guid>
       </item>
     
       <item>
@@ -604,8 +626,8 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/discount/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/discount/</guid>
+        <link>http://127.0.0.1:4000//Menu-cuisine/discount/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/discount/</guid>
       </item>
     
       <item>
@@ -684,30 +706,18 @@ element&lt;/td&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/combine/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/combine/</guid>
+        <link>http://127.0.0.1:4000//Menu-cuisine/combine/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/combine/</guid>
       </item>
     
       <item>
         <title>所有菜式</title>
-        <description>&lt;h3 id=&quot;section&quot;&gt;鸡类&lt;/h3&gt;
+        <description>&lt;h4 id=&quot;section&quot;&gt;鸡类&lt;/h4&gt;
 &lt;div class=&quot;show-for-small&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchenMenu-cuisine/all/wubeiji/&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt; &lt;em&gt;桑拿鸡&lt;/em&gt;&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-           &lt;a href=&quot;#&quot;&gt; &lt;em&gt;白切鸡&lt;/em&gt;&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://127.0.0.1:4000/Menu-cuisine/all/wubeiji/&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
             &lt;a href=&quot;#&quot;&gt; &lt;em&gt;桑拿鸡&lt;/em&gt;&lt;/a&gt;
@@ -718,52 +728,27 @@ element&lt;/td&gt;
     &lt;/div&gt;
 
 &lt;/div&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;鸭类&lt;/h4&gt;
+&lt;div class=&quot;show-for-small&quot;&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+            &lt;a href=&quot;http://127.0.0.1:4000/Menu-cuisine/all/shajiangya/&quot;&gt;&lt;em&gt;沙姜鸭&lt;/em&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+            &lt;a href=&quot;#&quot;&gt; &lt;em&gt;&lt;/em&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+           &lt;a href=&quot;#&quot;&gt; &lt;em&gt;白切鸡&lt;/em&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/all/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/all/</guid>
-      </item>
-    
-      <item>
-        <title>No Header but Article Image</title>
-        <description>&lt;p&gt;First turn of the header with &lt;code&gt;header: no&lt;/code&gt;. Than add an image to with the following code. The caption is optional.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;header: no
-image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 12 Mar 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/</guid>
+        <link>http://127.0.0.1:4000//Menu-cuisine/all/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//Menu-cuisine/all/</guid>
       </item>
     
   </channel>
