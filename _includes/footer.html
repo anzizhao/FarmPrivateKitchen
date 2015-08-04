@@ -25,7 +25,7 @@
                   {% else %}
                   {% assign domain = site.url %}
                 {% endif %}
-                  <li >
+                  <li class="footer-hyperlinks">
                     <a href="{{ domain }}{{ service_item.url }}" 
                         {% if service_item.url contains 'http' %}target="_blank" {% endif %} 
                         title="{{ service_item.title }}"

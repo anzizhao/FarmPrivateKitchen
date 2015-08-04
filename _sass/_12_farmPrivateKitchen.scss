@@ -23,6 +23,13 @@
 }
 
 .button.small{
-    border-right: 9px solid #4D5654;
-    border-bottom: 4px solid #4D5654;
+    background-color: #3498DB;
+    border-right: 9px solid #2980B9;;
+    border-bottom: 5px solid #2980B9;
+    /*border-right: 9px solid #4D5654;*/
+    /*border-bottom: 4px solid #4D5654;*/
+}
+
+.footer-hyperlinks{
+    margin-bottom: 1rem; 
 }
