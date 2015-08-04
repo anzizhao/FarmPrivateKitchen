@@ -3,8 +3,8 @@
   <channel>
     <title>文记农庄</title>
     <description>提供农庄的最新资讯,记录这里发生一切</description>
-    <link>https://anzizhao.github.io/FarmPrivateKitchen//</link>
-    <atom:link href="https://anzizhao.github.io/FarmPrivateKitchen//feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://anzizhao.github.io/FarmPrivateKitchen/</link>
+    <atom:link href="https://anzizhao.github.io/FarmPrivateKitchen/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Wonderful Typography</title>
@@ -426,8 +426,8 @@ element&lt;/td&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//design/typography/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//design/typography/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/typography/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/typography/</guid>
       </item>
     
       <item>
@@ -437,8 +437,8 @@ element&lt;/td&gt;
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//design/comments/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//design/comments/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/comments/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/comments/</guid>
       </item>
     
       <item>
@@ -455,19 +455,19 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -475,8 +475,8 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Sun, 11 Oct 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//design/no-header/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//design/no-header/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/</guid>
       </item>
     
       <item>
@@ -497,8 +497,8 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Tue, 04 Aug 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/all/shajiangya/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/all/shajiangya/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/shajiangya/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/shajiangya/</guid>
       </item>
     
       <item>
@@ -517,8 +517,8 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/all/wubeiji/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/all/wubeiji/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/wubeiji/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/wubeiji/</guid>
       </item>
     
       <item>
@@ -530,8 +530,8 @@ element&lt;/td&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/recommend/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/recommend/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/recommend/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/recommend/</guid>
       </item>
     
       <item>
@@ -597,10 +597,10 @@ element&lt;/td&gt;
 
 
 
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/Menu-cuisine/recommend/&quot;&gt;Next Post in MENU-CUISINE&lt;/a&gt;
+&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/MenuCuisine/recommend/&quot;&gt;Next Post in MENUCUISINE&lt;/a&gt;
 
 
-&lt;a class=&quot;button tiny radius&quot; href=&quot;/Menu-cuisine/discount/&quot;&gt;Previous Post in MENU-CUISINE&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;button tiny radius&quot; href=&quot;/MenuCuisine/discount/&quot;&gt;Previous Post in MENUCUISINE&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
 
 
 
@@ -610,8 +610,8 @@ element&lt;/td&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/newest/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/newest/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</guid>
       </item>
     
       <item>
@@ -626,8 +626,8 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/discount/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/discount/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/discount/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/discount/</guid>
       </item>
     
       <item>
@@ -693,10 +693,10 @@ element&lt;/td&gt;
 
 
 
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/Menu-cuisine/discount/&quot;&gt;Next Post in MENU-CUISINE&lt;/a&gt;
+&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/MenuCuisine/discount/&quot;&gt;Next Post in MENUCUISINE&lt;/a&gt;
 
 
-&lt;a class=&quot;button tiny radius&quot; href=&quot;/Menu-cuisine/all/&quot;&gt;Previous Post in MENU-CUISINE&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;button tiny radius&quot; href=&quot;/MenuCuisine/all/&quot;&gt;Previous Post in MENUCUISINE&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
 
 
 
@@ -706,49 +706,49 @@ element&lt;/td&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/combine/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/combine/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</guid>
       </item>
     
       <item>
         <title>所有菜式</title>
         <description>&lt;h4 id=&quot;section&quot;&gt;鸡类&lt;/h4&gt;
-&lt;div class=&quot;show-for-small&quot;&gt;
+&lt;div class=&quot;show-for-small menu-classify&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/all/wubeiji/&quot;&gt;&lt;em&gt;五杯鸡&lt;/em&gt;&lt;/a&gt;
+            &lt;a class=&quot;button small radius&quot; href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/wubeiji/&quot;&gt;五杯鸡&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt; &lt;em&gt;桑拿鸡&lt;/em&gt;&lt;/a&gt;
+            &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 桑拿鸡&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-           &lt;a href=&quot;#&quot;&gt; &lt;em&gt;白切鸡&lt;/em&gt;&lt;/a&gt;
+           &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 白切鸡&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
     &lt;/div&gt;
 
 &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;section-1&quot;&gt;鸭类&lt;/h4&gt;
-&lt;div class=&quot;show-for-small&quot;&gt;
+&lt;div class=&quot;show-for-small menu-classify&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/Menu-cuisine/all/shajiangya/&quot;&gt;&lt;em&gt;沙姜鸭&lt;/em&gt;&lt;/a&gt;
+            &lt;a class=&quot;button small radius&quot; href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/shajiangya/&quot;&gt;沙姜鸭&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a href=&quot;#&quot;&gt; &lt;em&gt;&lt;/em&gt;&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
         &lt;div class=&quot;small-4 columns&quot;&gt;
-           &lt;a href=&quot;#&quot;&gt; &lt;em&gt;白切鸡&lt;/em&gt;&lt;/a&gt;
+           &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 白切鸡&lt;/a&gt;
         &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
     &lt;/div&gt;
 
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/all/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen//Menu-cuisine/all/</guid>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</guid>
       </item>
     
   </channel>
