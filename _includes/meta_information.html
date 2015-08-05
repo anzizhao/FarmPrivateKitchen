@@ -17,12 +17,15 @@
 				<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
 			</p>
 
+
 			<div id="post-nav" class="row">
 				
-				{% if page.previous.url %} 
+				{% if page.previous.url and page.category == page.previous.category %} 
 				<div class="small-6 columns"><a class="button small radius prev" href="{{ site.url }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a></div><!-- /.small-4.columns -->
+                {% else %}
+				<div class="small-6 columns"></a></div><!-- /.small-4.columns -->
 				{% endif %} 
-				{% if page.next.url %} 
+				{% if page.next.url and page.category == page.next.category %} 
 				<div class="small-6 columns text-right"><a class="button small radius next" href="{{ site.url }}{{page.next.url}}">{{page.next.title}} &raquo;</a></div><!-- /.small-4.columns -->
 				{% endif %} 
 			</div>

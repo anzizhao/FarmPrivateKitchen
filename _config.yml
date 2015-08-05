@@ -62,7 +62,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 highlight: pygments
 excerpt_separator: "\n\n"
-exclude: ['node_modules']
+exclude: ['node_modules', 'bak']
 include: ['.htaccess']
 
 
@@ -76,6 +76,7 @@ exclude:
     - LICENSE
     - README.md
     - node_modules
+    - bak 
 
 
 #

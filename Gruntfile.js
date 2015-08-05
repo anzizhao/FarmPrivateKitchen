@@ -26,6 +26,7 @@ module.exports  = function(grunt) {
             master_serve:{
                 options: {
                     serve: true,
+                    config:'_config.yml,_config_dev.yml',
                 }
             }
         },
