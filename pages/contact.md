@@ -2,6 +2,7 @@
 layout: page
 title: "联系"
 show_meta: false
+breadcrumb: true
 #teaser: "看完想来试试？心动不如行动"
 permalink: "/contact/"
 ---
@@ -9,6 +10,8 @@ permalink: "/contact/"
 #### 订座电话
 <br/>
 > 文叔 13928702168 
+
+<div id="navigation"></div>
 
 #### 地址
 <br/>

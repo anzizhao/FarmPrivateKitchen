@@ -17,7 +17,12 @@ widget-1:
     text: '所有菜单页面的设计,功能实现 这是一个关键的点, 现在还有上下页的设计问题'
 widget-2:
     title: "待做事情"
-    text: '联系人 地图导航 注脚添加联系方式'
+    text: '1. 联系人需要更新'
+hotTags:
+    - title: '地图导航' 
+      url: '/contact/index.html#navigation' 
+    - title: "菜单"
+      url: "/MenuCuisine/all"
 ---
 
 
