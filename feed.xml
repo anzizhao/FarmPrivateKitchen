@@ -522,6 +522,56 @@ element&lt;/td&gt;
       </item>
     
       <item>
+        <title>所有菜式</title>
+        <description>&lt;h4 id=&quot;section&quot;&gt;鸡类&lt;/h4&gt;
+&lt;div class=&quot;show-for-small menu-classify&quot;&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+            &lt;a class=&quot;button small radius&quot; href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/wubeiji/&quot;&gt;五杯鸡&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+            &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 桑拿鸡&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+           &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 白切鸡&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;鸭类&lt;/h4&gt;
+&lt;div class=&quot;show-for-small menu-classify&quot;&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+            &lt;a class=&quot;button small radius&quot; href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/shajiangya/&quot;&gt;沙姜鸭&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+        &lt;div class=&quot;small-4 columns&quot;&gt;
+           &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 白切鸡&lt;/a&gt;
+        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 29 Jul 2015 00:00:00 +0800</pubDate>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</guid>
+      </item>
+    
+      <item>
+        <title>组合套餐</title>
+        <description>
+</description>
+        <pubDate>Tue, 28 Jul 2015 00:00:00 +0800</pubDate>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</guid>
+      </item>
+    
+      <item>
         <title>文记推荐</title>
         <description>&lt;ul&gt;
   &lt;li&gt;推荐菜式 泸州老鸭汤
@@ -529,89 +579,9 @@ element&lt;/td&gt;
 ** 推荐指数:  几个星&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 27 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/recommend/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/recommend/</guid>
-      </item>
-    
-      <item>
-        <title>最新推荐</title>
-        <description>&lt;div class=&quot;show-for-small&quot;&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-&lt;h3&gt;泸州老鸭汤(手机)&lt;/h3&gt;
-        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;show-for-large-up&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-12 columns&quot;&gt;
-            &lt;h2&gt;泸州老鸭汤(pc)&lt;/h2&gt;
-            &lt;h3&gt;Large Displays Two Columns&lt;/h3&gt;
-        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-    &lt;/div&gt;
-
-
-
-&lt;div id=&quot;bottom&quot; class=&quot;row t30&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/MenuCuisine/recommend/&quot;&gt;Next Post in MENUCUISINE&lt;/a&gt;
-
-
-&lt;a class=&quot;button tiny radius&quot; href=&quot;/MenuCuisine/discount/&quot;&gt;Previous Post in MENUCUISINE&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
-
-
-
-    &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</guid>
       </item>
     
       <item>
@@ -625,7 +595,7 @@ element&lt;/td&gt;
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
+        <pubDate>Sun, 26 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/discount/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/discount/</guid>
       </item>
@@ -691,12 +661,8 @@ element&lt;/td&gt;
 
 
 
-
-
 &lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;/MenuCuisine/discount/&quot;&gt;Next Post in MENUCUISINE&lt;/a&gt;
 
-
-&lt;a class=&quot;button tiny radius&quot; href=&quot;/MenuCuisine/all/&quot;&gt;Previous Post in MENUCUISINE&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
 
 
 
@@ -705,50 +671,9 @@ element&lt;/td&gt;
 
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</guid>
-      </item>
-    
-      <item>
-        <title>所有菜式</title>
-        <description>&lt;h4 id=&quot;section&quot;&gt;鸡类&lt;/h4&gt;
-&lt;div class=&quot;show-for-small menu-classify&quot;&gt;
-
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a class=&quot;button small radius&quot; href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/wubeiji/&quot;&gt;五杯鸡&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 桑拿鸡&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-           &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 白切鸡&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;section-1&quot;&gt;鸭类&lt;/h4&gt;
-&lt;div class=&quot;show-for-small menu-classify&quot;&gt;
-
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-            &lt;a class=&quot;button small radius&quot; href=&quot;https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/shajiangya/&quot;&gt;沙姜鸭&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-        &lt;div class=&quot;small-4 columns&quot;&gt;
-           &lt;a class=&quot;button small radius&quot; href=&quot;#&quot;&gt; 白切鸡&lt;/a&gt;
-        &lt;/div&gt;&lt;!-- /.small-3.columns --&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</guid>
+        <pubDate>Sat, 25 Jul 2015 00:00:00 +0800</pubDate>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</guid>
       </item>
     
   </channel>
