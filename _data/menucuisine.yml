@@ -1,0 +1,26 @@
+- classify: "鸡类"
+  cuisine:
+  - name: "五杯鸡"
+    url: "/MenuCuisine/all/wubeiji/"
+  - name: "桑拿鸡"
+    url: ""
+  - name: "白切鸡"
+    url: ""
+  - name: "烧&nbsp;鸡"
+    url: ""
+
+- classify: "鸭类"
+  cuisine:
+  - name: "沙姜鸭"
+    url: "/MenuCuisine/all/shajiangya/"
+  - name: "白切鸡"
+    url: ""
+    
+
+- classify: "鱼类"
+  cuisine:
+  - name: "清蒸草鱼"
+    url: ""
+  - name: "清蒸大头鱼"
+    url: ""
+
