@@ -19,7 +19,6 @@ format: blog-index
 {% if page.hotTags %}
 <br/>
 <h4>热门标签: </h4>
-<br/>
 {% assign tagCount = 0 %}
 <div class="show-for-small ">
 {% for post in page.hotTags %}
@@ -28,17 +27,17 @@ format: blog-index
     <div class="row">
         {% endif %}
 
-        <div class="small-3 columns">
+        <!--<div class="small-3 columns">-->
             <!--<div style="background: #45B29D;">-->
-            <a href="{{ site.url }}{{ post.url}}" style="text-decoration:underline"><strong>{{ post.title}}</strong> </a>
+            <a href="{{ site.url }}{{ post.url}}" style="text-decoration:underline"><strong>{{ post.title}}</strong></a>
+            &nbsp;&nbsp;
             <!--</div>-->
-        </div><!-- /.small-3.columns -->
+        <!--</div>[> /.small-3.columns <]-->
         {% if forloop.last %}
             {% assign surplus = page.hotTabs minus: tagCount %}
             {% for post in page.hotTags limit:surplus %}
-                <div class="small-3 columns">
-                </div><!-- /.small-3.columns -->
-        
+                <!--<div class="small-3 columns">-->
+                <!--</div>[> /.small-3.columns <]--> 
             {% endfor %}
         {% endif %}
     {% if addRowFlag == 2 %}
@@ -59,7 +58,12 @@ format: blog-index
 *  if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
+
+
+
+
 <div class="row t60">
+<h4>最新动态: </h4>
     {% if page.widget-1.title %}
     <div class="medium-4 columns">
         <a href="{% if page.widget-1.url contains 'http' %}{{ page.widget-1.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-1.url }}{% endif %}">{% if page.widget-1.image %}<img src="{{ site.urlimg }}/{{ page.widget-1.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-1.video %}{{ page.widget-1.video }}{% endif %}</a>
@@ -115,7 +119,7 @@ format: blog-index
     {% endif %}
 </div><!-- /.row -->
 
-
+    <div id="breadcumeMean"> </div>
     {% if page.widget-6.title %}
     <div class="medium-4 columns">
         <a href="{% if page.widget-6.url contains 'http' %}{{ page.widget-6.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-6.url }}{% endif %}">{% if page.widget-6.image %}<img src="{{ site.urlimg }}/{{ page.widget-6.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-6.video %}{{ page.widget-6.video }}{% endif %}</a>

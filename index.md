@@ -9,12 +9,20 @@
 layout: frontpage
 title: "文记农庄"
 header:
-   image_fullwidth: "yuhouhehua3.jpg"
-   image_fullwidth_small: "Cyuhouhehua_256x.jpg"
-widget-1:
-    title: "菜单栏的功能开发"
+   image_fullwidth: "youqu.jpg"
+   image_fullwidth_small: "youqu_512.jpg"
+   anchor: "#breadcumeMean" 
+widget-6:
+    title: "breadcrume图片含义:"
     url: '/MenuCuisine'
-    text: '所有菜单页面的设计,功能实现 这是一个关键的点, 现在还有上下页的设计问题'
+    text: '<p>
+           鸡说: "我是自由放养的"<br/>
+           橙子说: "我是一个橙子"<br/><br/>
+           &nbsp;&nbsp;&nbsp;&nbsp;这是一个英语发音的幽默. free range是自由放养的意思,O range是橙子英文单词
+           拆开.橙子故意拆开orange来发音,来幽默鸡一把. 自由放养的鸡，其肌肉中肌纤维直径小、密度大，而
+           肌纤维越细，肉质越嫩，肌纤维越密，风味越好.文记农庄的鸡都是自由放养的哦. 
+           </p>'
+
 widget-2:
     title: "待做事情"
     text: '1. 联系人需要更新'
