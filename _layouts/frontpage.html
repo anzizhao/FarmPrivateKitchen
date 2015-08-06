@@ -17,40 +17,16 @@ format: blog-index
 {% endcomment %}
 
 {% if page.hotTags %}
-<br/>
 <h4>热门标签: </h4>
 {% assign tagCount = 0 %}
 <div class="show-for-small ">
 {% for post in page.hotTags %}
-    {% assign addRowFlag = tagCount | modulo:3  %}
-    {% if addRowFlag == 0 %}
-    <div class="row">
-        {% endif %}
-
-        <!--<div class="small-3 columns">-->
-            <!--<div style="background: #45B29D;">-->
-            <a href="{{ site.url }}{{ post.url}}" style="text-decoration:underline"><strong>{{ post.title}}</strong></a>
-            &nbsp;&nbsp;
-            <!--</div>-->
-        <!--</div>[> /.small-3.columns <]-->
-        {% if forloop.last %}
-            {% assign surplus = page.hotTabs minus: tagCount %}
-            {% for post in page.hotTags limit:surplus %}
-                <!--<div class="small-3 columns">-->
-                <!--</div>[> /.small-3.columns <]--> 
-            {% endfor %}
-        {% endif %}
-    {% if addRowFlag == 2 %}
-    </div>
-    {% endif %}
-
-    {% assign tagCount = tagCount |plus:1  %}
+        <a href="{{ site.url }}{{ post.url}}" style="text-decoration:underline"><strong>{{ post.title}}</strong></a>
+            &nbsp;&nbsp; &nbsp;&nbsp;
 {% endfor %}
-
 </div>
-{% endif %}
-<br/>
 <hr/>
+{% endif %}
 
 
 {% comment %}
@@ -64,72 +40,20 @@ format: blog-index
 
 <div class="row t60">
 <h4>最新动态: </h4>
-    {% if page.widget-1.title %}
+{% for widget in page.widgets %}
+
+
     <div class="medium-4 columns">
-        <a href="{% if page.widget-1.url contains 'http' %}{{ page.widget-1.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-1.url }}{% endif %}">{% if page.widget-1.image %}<img src="{{ site.urlimg }}/{{ page.widget-1.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-1.video %}{{ page.widget-1.video }}{% endif %}</a>
-        <h2 class="font-size-h3 t10">{{ page.widget-1.title }}</h2>
-        <p>{{ page.widget-1.text }}</p>
-        <p><a class="button tiny radius" href="{% if page.widget-1.url contains 'http' %}{{ page.widget-1.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-1.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
+        <a href="{% if widget.url contains 'http' %}{{ widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ widget.url }}{% endif %}">{% if widget.image %}<img src="{{ site.urlimg }}/{{ widget.image }}" width="302" height="182" alt="">{% endif %}{% if widget.video %}{{ widget.video }}{% endif %}</a>
+        <h2 class="font-size-h3 t10">{{ widget.title }}</h2>
+        <p>{{ widget.text }}</p>
+
+        {% if widget.url %}
+        <p><a class="button tiny radius" href="{% if widget.url contains 'http' %}{{ widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ widget.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
+        {% endif %}
     </div><!-- /.medium-4.columns -->
-    {% endif %}
+{% endfor %}
 
-
-    {% if page.widget-2.title %}
-    <div class="medium-4 columns">
-        <a href="{% if page.widget-2.url contains 'http' %}{{ page.widget-2.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-2.url }}{% endif %}">{% if page.widget-2.image %}<img src="{{ site.urlimg }}/{{ page.widget-2.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-2.video %}{{ page.widget-2.video }}{% endif %}</a>
-        <h2 class="font-size-h3 t10">{{ page.widget-2.title }}</h2>
-        <p>{{ page.widget-2.text }}</p>
-        <p><a class="button tiny radius" href="{% if page.widget-2.url contains 'http' %}{{ page.widget-2.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-2.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
-
-
-    {% if page.widget-3.title %}
-    <div class="medium-4 columns">
-        <a href="{% if page.widget-3.url contains 'http' %}{{ page.widget-3.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-3.url }}{% endif %}">{% if page.widget-3.image %}<img src="{{ site.urlimg }}/{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>
-        <a href="{{ page.widget-3.url }}">{% if page.widget-3.image %}<img class="lazy" data-src="{{ site.urlimg }}/{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>
-        <h2 class="font-size-h3 t10">{{ page.widget-3.title }}</h2>
-        <p>{{ page.widget-3.text }}</p>
-        <p><a class="button tiny radius" href="{% if page.widget-3.url contains 'http' %}{{ page.widget-3.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-3.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
-</div><!-- /.row -->
-
-
-    {% if page.widget-4.title %}
-    <div class="medium-4 columns">
-        <a href="{% if page.widget-4.url contains 'http' %}{{ page.widget-4.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-4.url }}{% endif %}">{% if page.widget-4.image %}<img src="{{ site.urlimg }}/{{ page.widget-4.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-4.video %}{{ page.widget-4.video }}{% endif %}</a>
-        <a href="{{ page.widget-4.url }}">{% if page.widget-4.image %}<img class="lazy" data-src="{{ site.urlimg }}/{{ page.widget-4.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-4.video %}{{ page.widget-4.video }}{% endif %}</a>
-        <h2 class="font-size-h3 t10">{{ page.widget-4.title }}</h2>
-        <p>{{ page.widget-4.text }}</p>
-        <p><a class="button tiny radius" href="{% if page.widget-4.url contains 'http' %}{{ page.widget-4.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-4.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
-</div><!-- /.row -->
-
-
-    {% if page.widget-5.title %}
-    <div class="medium-4 columns">
-        <a href="{% if page.widget-5.url contains 'http' %}{{ page.widget-5.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-5.url }}{% endif %}">{% if page.widget-5.image %}<img src="{{ site.urlimg }}/{{ page.widget-5.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-5.video %}{{ page.widget-5.video }}{% endif %}</a>
-        <a href="{{ page.widget-5.url }}">{% if page.widget-5.image %}<img class="lazy" data-src="{{ site.urlimg }}/{{ page.widget-5.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-5.video %}{{ page.widget-5.video }}{% endif %}</a>
-        <h2 class="font-size-h3 t10">{{ page.widget-5.title }}</h2>
-        <p>{{ page.widget-5.text }}</p>
-        <p><a class="button tiny radius" href="{% if page.widget-5.url contains 'http' %}{{ page.widget-5.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-5.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
-</div><!-- /.row -->
-
-    <div id="breadcumeMean"> </div>
-    {% if page.widget-6.title %}
-    <div class="medium-4 columns">
-        <a href="{% if page.widget-6.url contains 'http' %}{{ page.widget-6.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-6.url }}{% endif %}">{% if page.widget-6.image %}<img src="{{ site.urlimg }}/{{ page.widget-6.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-6.video %}{{ page.widget-6.video }}{% endif %}</a>
-        <a href="{{ page.widget-6.url }}">{% if page.widget-6.image %}<img class="lazy" data-src="{{ site.urlimg }}/{{ page.widget-6.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-6.video %}{{ page.widget-6.video }}{% endif %}</a>
-        <h2 class="font-size-h3 t10">{{ page.widget-6.title }}</h2>
-        <p>{{ page.widget-6.text }}</p>
-        <p><a class="button tiny radius" href="{% if page.widget-6.url contains 'http' %}{{ page.widget-6.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-6.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
-    </div><!-- /.medium-4.columns -->
-    {% endif %}
-</div><!-- /.row -->
 
 {% comment %}
 *
