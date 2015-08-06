@@ -26,6 +26,7 @@ module.exports  = function(grunt) {
             master_serve:{
                 options: {
                     serve: true,
+                    config:'_config.yml,_config_dev.yml',
                 }
             }
         },
@@ -81,7 +82,7 @@ module.exports  = function(grunt) {
     // 加载包含 "uglify" 任务的插件。
     grunt.loadNpmTasks('grunt-contrib-uglify');
     //这版本copy 不强大
-    grunt.loadNpmTasks('grunt-contrib-copy');
+    //grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('grunt-copy-mate');
     grunt.loadNpmTasks('grunt-git');
     grunt.loadNpmTasks('grunt-contrib-clean');
