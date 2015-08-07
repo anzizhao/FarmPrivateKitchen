@@ -1,11 +1,9 @@
 ---
-#
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
-
 # every widget has these properties, url title image video text 
-# 最多有六个窗格
+
 layout: frontpage
 title: "文记农庄"
 header:
@@ -28,3 +26,4 @@ widgets:
     - title: "Todolist"
       text: '
             菜单基础模块'
+---
