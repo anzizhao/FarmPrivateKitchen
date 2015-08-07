@@ -425,7 +425,7 @@ element&lt;/td&gt;
 &lt;/tbody&gt;&lt;/table&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 16 Nov 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/design/typography/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/typography/</guid>
       </item>
@@ -436,7 +436,7 @@ element&lt;/td&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 15 Nov 2015 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 15 Nov 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/design/comments/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/comments/</guid>
       </item>
@@ -474,7 +474,7 @@ element&lt;/td&gt;
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Sun, 11 Oct 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 11 Oct 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/design/no-header/</guid>
       </item>
@@ -496,7 +496,7 @@ element&lt;/td&gt;
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Tue, 04 Aug 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 04 Aug 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/shajiangya/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/shajiangya/</guid>
       </item>
@@ -516,7 +516,7 @@ element&lt;/td&gt;
 &lt;h4 id=&quot;y25-&quot;&gt;价格： Y25 一份&lt;/h4&gt;
 
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/wubeiji/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/wubeiji/</guid>
       </item>
@@ -612,7 +612,7 @@ element&lt;/td&gt;
 &lt;/div&gt;
 
 </description>
-        <pubDate>Wed, 29 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 29 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/</guid>
       </item>
@@ -621,7 +621,7 @@ element&lt;/td&gt;
         <title>组合套餐</title>
         <description>
 </description>
-        <pubDate>Tue, 28 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 28 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/combine/</guid>
       </item>
@@ -634,7 +634,7 @@ element&lt;/td&gt;
 ** 推荐指数:  几个星&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 27 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 27 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/recommend/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/recommend/</guid>
       </item>
@@ -650,7 +650,7 @@ element&lt;/td&gt;
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Sun, 26 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 26 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/discount/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/discount/</guid>
       </item>
@@ -726,7 +726,7 @@ element&lt;/td&gt;
 
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 25 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 25 Jul 2015 00:00:00 +0800</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/newest/</guid>
       </item>
