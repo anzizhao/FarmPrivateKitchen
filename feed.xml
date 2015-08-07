@@ -481,13 +481,16 @@ element&lt;/td&gt;
     
       <item>
         <title>沙姜鸭</title>
-        <description>&lt;ul class=&quot;clearing-thumbs small-block-grid-1&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/shajiangya-240.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/shajiangya.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+        <description>
+&lt;ul class=&quot;clearing-thumbs small-block-grid-1&quot; data-clearing=&quot;&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/shajiangya-240.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/shajiangya.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
 &lt;/ul&gt;
 
 &lt;p&gt;  美味可口，人见人爱&lt;/p&gt;
 
-&lt;div class=&quot;price&quot;&gt;价格:&amp;nbsp;&lt;em&gt;¥&lt;/em&gt;&lt;span&gt;29.00&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;price&quot;&gt;价格:&amp;nbsp;&lt;strong&gt;¥&lt;/strong&gt;&lt;span&gt;29.0&lt;/span&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -503,17 +506,26 @@ element&lt;/td&gt;
     
       <item>
         <title>五杯鸡</title>
-        <description>&lt;h4 id=&quot;brbr&quot;&gt;五杯鸡 &lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
-
+        <description>
 &lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao1.jpg&quot;&gt;&lt;img data-caption=&quot;出炉&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao1.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao2.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao2.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao3.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao3.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao1.jpg&quot;&gt;&lt;img data-caption=&quot;出炉&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao1.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao2.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao2.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao3.jpg&quot;&gt;&lt;img data-caption=&quot;上台&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/caiyao3.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;section&quot;&gt;描述： 美味可口，人见人爱&lt;/h4&gt;
+&lt;p&gt;  美味可口，人见人爱&lt;/p&gt;
 
-&lt;h4 id=&quot;y25-&quot;&gt;价格： Y25 一份&lt;/h4&gt;
+&lt;div class=&quot;price&quot;&gt;价格:&amp;nbsp;&lt;strong&gt;¥&lt;/strong&gt;&lt;span&gt;39.0&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;拥有财富、名声、权力，这世界上的一切的男人 “海贼王”哥尔·D·罗杰，在行刑前说了一句话，”想要我的财宝吗？想要的话可以全部给你，去找吧，我把一切都放在那里。 “. 自此男人都涌向”伟大航路”,去寻找他们的梦想.世界迎来了大海贼时代!! ————漫画《海贼王》&lt;/p&gt;
+&lt;/blockquote&gt;
 
 </description>
         <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
