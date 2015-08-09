@@ -27,14 +27,21 @@
       <item>
         <title>炖蛋</title>
         <description>
-&lt;ul class=&quot;clearing-thumbs small-block-grid-0&quot; data-clearing=&quot;&quot;&gt;
+&lt;ul class=&quot;clearing-thumbs small-block-grid-1&quot; data-clearing=&quot;&quot;&gt;
     
-    &lt;strong&gt;暂无该菜式图片,会尽快补上&lt;/strong&gt;
-    &lt;br /&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/dundan.jpg&quot;&gt;&lt;img data-caption=&quot;炖蛋&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/dundan_240.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
     
 &lt;/ul&gt;
 
+&lt;p&gt;使用农庄新鲜鸡蛋炖&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;　　萋萋芳草春绿，落落长松夏寒。 　　牛羊自归村巷，童稚不识衣冠。 ———唐·王维《田园乐》&lt;/p&gt;
+&lt;/blockquote&gt;
 
 </description>
         <pubDate>Tue, 02 Aug 2016 00:00:00 -0700</pubDate>
@@ -45,19 +52,51 @@
       <item>
         <title>全蛋糕</title>
         <description>
-&lt;ul class=&quot;clearing-thumbs small-block-grid-0&quot; data-clearing=&quot;&quot;&gt;
+&lt;ul class=&quot;clearing-thumbs small-block-grid-1&quot; data-clearing=&quot;&quot;&gt;
     
-    &lt;strong&gt;暂无该菜式图片,会尽快补上&lt;/strong&gt;
-    &lt;br /&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/quandangao.jpg&quot;&gt;&lt;img data-caption=&quot;全蛋糕&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/quandangao_240.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
     
 &lt;/ul&gt;
 
+&lt;p&gt;不添加水，全用农庄鸡蛋做成的发糕&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;它山之石,可以攻玉 《诗经·小雅·鹤鸣》&lt;/p&gt;
+&lt;/blockquote&gt;
 
 </description>
         <pubDate>Mon, 01 Aug 2016 00:00:00 -0700</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/quandangao/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/quandangao/</guid>
+      </item>
+    
+      <item>
+        <title>黄瓜</title>
+        <description>
+&lt;ul class=&quot;clearing-thumbs small-block-grid-1&quot; data-clearing=&quot;&quot;&gt;
+    
+    
+    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/huaguang.jpg&quot;&gt;&lt;img data-caption=&quot;黄瓜汤&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/huaguang_240.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+&lt;/ul&gt;
+
+&lt;p&gt;蔬菜时汤，一般会加点鸭血，鸡鸭内脏之类的。不要的话，可以提前跟说的&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;　　朝辞白帝彩云间，千里江陵一日还。 　　两岸猿声啼不住，轻舟已过万重山。 　         ——— 唐·李白《早发白帝城》 　　&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Sat, 09 Jul 2016 00:00:00 -0700</pubDate>
+        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/huanggua/</link>
+        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/huanggua/</guid>
       </item>
     
       <item>
@@ -76,8 +115,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;　　种豆南山下，草盛豆苗稀。 　　晨兴理荒秽，带月荷锄归。 　　道狭草木长，夕露沾我衣。 　　衣沾不足惜，但使愿无违。 　         ——— 晋·陶渊明《归园田居·其三》
-　　&lt;/p&gt;
+  &lt;p&gt;　　种豆南山下，草盛豆苗稀。 　　晨兴理荒秽，带月荷锄归。 　　道狭草木长，夕露沾我衣。 　　衣沾不足惜，但使愿无违。 　         ——— 晋·陶渊明《归园田居·其三》 　　&lt;/p&gt;
 &lt;/blockquote&gt;
 
 </description>
@@ -198,29 +236,6 @@
         <pubDate>Sun, 03 Jul 2016 00:00:00 -0700</pubDate>
         <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/qiezi/</link>
         <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/qiezi/</guid>
-      </item>
-    
-      <item>
-        <title>菜心</title>
-        <description>
-&lt;ul class=&quot;clearing-thumbs small-block-grid-1&quot; data-clearing=&quot;&quot;&gt;
-    
-    
-    &lt;li&gt;&lt;a href=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/baicai.jpg&quot;&gt;&lt;img data-caption=&quot;菜心&quot; src=&quot;http://anzizhao.github.io/FarmPrivateKitchen/images/baicai_240.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-    
-    
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;　　空山新雨后，天气晚来秋。 　　明月松间照，清泉石上流。 　　竹喧归浣女，莲动下渔舟。 　　随意春芳歇，王孙自可留。 ———唐·王维《山居秋暝》&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Sat, 02 Jul 2016 00:00:00 -0700</pubDate>
-        <link>https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/caixin/</link>
-        <guid isPermaLink="true">https://anzizhao.github.io/FarmPrivateKitchen/MenuCuisine/all/caixin/</guid>
       </item>
     
   </channel>
