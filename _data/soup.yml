@@ -1,0 +1,37 @@
+tesejijiaotang:
+  images:
+  price: 
+  description: "使用眉豆,木瓜,鸡脚等材料熬制" 
+  logion: "
+　　     知我者谓我心忧，不知我者谓我何求! 《诗经·国风·王风·黍离》
+     "
+
+tesejiaohuatang:
+  images:
+  price: 
+  description: "" 
+  logion: "
+　　     青青子衿，悠悠我心。 《诗经·国风·郑风·子衿》
+      "
+
+wuzhimaotaojitang:
+  images:
+  price: 
+  description: "" 
+  logion: "
+　　    一日不见，如三月兮。《国风·王风·采葛》
+      "
+      
+yezijitang:
+  images:
+      - thumb: "yezijitang_240.jpg"
+        big: "yezijitang.jpg"
+        caption: "真是一大锅"
+  price: 
+  description: "真是一大锅" 
+  logion: "
+　　欲济无舟楫，端居耻圣明。
+　　坐观垂钓者，徒有羡鱼情。
+　         ——— 唐·孟浩然 《望洞庭湖赠张丞相》
+　　      "
+

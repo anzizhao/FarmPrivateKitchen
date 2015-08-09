@@ -1,0 +1,112 @@
+jielan:
+  images:
+  price: 
+  description: 
+  logion: '
+     愿一生中苦痛快乐也体验 
+     愉快悲哀在身边转又转 
+     风中赏雪 雾里赏花快乐回旋 
+     毋庸计较 快欣赏身边美丽每一天 
+     还愿确信美景良辰在脚边 
+             ———歌词《漫步人生路》
+      ' 
+caixin:
+  images:
+      - thumb: "baicai_240.jpg"
+        big: "baicai.jpg"
+        caption: "菜心"
+  price: 
+  description: 
+  logion: ' 
+　　空山新雨后，天气晚来秋。
+　　明月松间照，清泉石上流。
+　　竹喧归浣女，莲动下渔舟。
+　　随意春芳歇，王孙自可留。
+             ———唐·王维《山居秋暝》
+'       
+
+qiezi:
+  images:
+      - thumb: "qiezi_240.jpg"
+        big: "qiezi.jpg"
+        caption: "茄子"
+  price: 
+  description: "肉末茄子" 
+  logion: '
+　　山下孤烟远村，天边独树高原。
+　　一瓢颜回陋巷，五柳先生对门。
+             ———唐·王维《田园乐·其五》
+      ' 
+qiuqie:
+  images:
+  price: 
+  description: 
+  logion: '
+     半斤八两 就算有福都无你享
+     半斤八两 仲惨过滚水渌猪掌
+     半斤八两 鸡碎甘多都要啄
+     出左半斤力 想话摞番足八两
+     家阵恶温食 边有半斤八两甘理想
+             ———歌词 《半斤八两》
+      ' 
+qiukui:
+  images:
+  price: 
+  description: 
+  logion: '
+      一个胖女孩遇见了魔鬼，魔鬼说你必须失去点东西我才能实现你的愿望。
+      女孩：我愿意用我五十斤的肉换来一张美丽的脸。
+      魔鬼：你TM在逗我。
+             ———网络 笑话
+      ' 
+doujiao:
+  images:
+      - thumb: "doujiao_240.jpg"
+        big: "doujiao.jpg"
+        caption: "酱油豆角"
+  price: 
+  description: 
+  logion: '
+     原谅我这一生不羁放纵爱自由
+     也会怕有一天会跌倒
+     被弃了理想谁人都可以
+     那会怕有一天只你共我
+     仍然自由自我
+     永远高唱我歌
+     走遍千里
+             ———歌词《海阔天空》
+      ' 
+dongguamiao:
+  images:
+  price: 
+  description: 
+  logion:  '
+     世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。 
+             ———毛泽东经典语录
+      '
+yelanhua:
+  images:
+      - thumb: "yelanhua_240.jpg"
+        big: "yelanhua.jpg"
+        caption: "夜兰花"
+  price: 
+  description: "夜兰花清香,加瘦肉煮出来汤清甜,非常适合夏天喝" 
+  logion: "
+　　种豆南山下，草盛豆苗稀。
+　　晨兴理荒秽，带月荷锄归。
+　　道狭草木长，夕露沾我衣。
+　　衣沾不足惜，但使愿无违。
+　         ——— 晋·陶渊明《归园田居·其三》
+　　      "
+huanggua:
+  images:
+      - thumb: "huaguang_240.jpg"
+        big: "huaguang.jpg"
+        caption: "黄瓜汤"
+  price: 
+  description: "蔬菜时汤，一般会加点鸭血，鸡鸭内脏之类的。不要的话，可以提前跟说的" 
+  logion: "
+　　朝辞白帝彩云间，千里江陵一日还。
+　　两岸猿声啼不住，轻舟已过万重山。
+　         ——— 唐·李白《早发白帝城》
+　　      "

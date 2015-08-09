@@ -1,17 +1,24 @@
 
 {% assign item = include.item %}
 <ul class="clearing-thumbs small-block-grid-{{ item.images | size}}" data-clearing>
+    {% if item.images | size != 0 %}
     {% for image in item.images %}
-    <li><a href="{{ site.urlimg }}{{ image.thumb }}"><img data-caption="{{ image.caption }}" src="{{ site.urlimg }}{{ image.big }}"></a></li>
+    <li><a href="{{ site.urlimg }}{{ image.big }}" ><img data-caption="{{ image.caption }}" src="{{ site.urlimg }}{{ image.thumb }}" ></a></li>
     {% endfor %}
+    {% else %}
+    <strong>暂无该菜式图片,会尽快补上</strong>
+    <br/>
+    {% endif %}
 </ul>
 
 {{ item.description }}
 
+{% if item.price %}
 <div class="price">价格:&nbsp;<strong>¥</strong><span>{{ item.price }}</span></div>
-
+{% endif %}
 
 <br/>
 
+{% if item.logion %}
 > {{ item.logion }} 
-
+{% endif %}

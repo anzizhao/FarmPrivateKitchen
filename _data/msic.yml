@@ -1,0 +1,35 @@
+quandangao:
+  images:
+      - thumb: "quandangao_240.jpg"
+        big: "quandangao.jpg"
+        caption: "全蛋糕"
+  price: 
+  description: "不加水，全用农庄鸡蛋做成的发糕" 
+  logion: '
+            它山之石,可以攻玉 《诗经·小雅·鹤鸣》
+      ' 
+dundan:
+  images:
+      - thumb: "dundan_240.jpg"
+        big: "dundan.jpg"
+        caption: "炖蛋"
+  price: 
+  description: "使用农庄新鲜鸡蛋炖" 
+  logion: '
+　　萋萋芳草春绿，落落长松夏寒。
+　　牛羊自归村巷，童稚不识衣冠。
+                     ———唐·王维《田园乐》
+      ' 
+mugualuobosuan:
+  images:
+      - thumb: "mugualuobosuan_240.jpg"
+        big: "mugualuobosuan.jpg"
+        caption: "木瓜萝卜酸"
+      - thumb: "mugualuobosuan2_240.jpg"
+        big: "mugualuobosuan2.jpg"
+        caption: "木瓜萝卜酸"
+  price: 
+  description: '酸甜清新，开胃小菜' 
+  logion: '
+　　呦呦鹿鸣，食野之苹。我有嘉宾，鼓瑟吹笙。 《诗经·小雅·鹿鸣》
+      ' 

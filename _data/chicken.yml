@@ -1,18 +1,100 @@
 wubeiji:
   images:
-      - thumb: "caiyao1.jpg"
-        big: "caiyao1.jpg"
-        caption: "出炉"
-      - thumb: "caiyao2.jpg"
-        big: "caiyao2.jpg"
-        caption: "上台"
-      - thumb: "caiyao3.jpg"
-        big: "caiyao3.jpg"
-        caption: "上台"
-  price: 39.00
+  price: 
   description: "&nbsp;&nbsp;美味可口，人见人爱" 
   logion: '
 拥有财富、名声、权力，这世界上的一切的男人 “海贼王”哥尔·D·罗杰，在行刑前说了一句话，"想要我的财宝吗？想要的话可以全部给你，去找吧，我把一切都放在那里。
 ". 自此男人都涌向"伟大航路",去寻找他们的梦想.世界迎来了大海贼时代!! ————漫画《海贼王》'
 
-    
+shaoji:
+  images:
+      - thumb: "shaoji_240.jpg"
+        big: "shaoji.jpg"
+        caption: "出炉"
+      - thumb: "shaoji2_240.jpg"
+        big: "shaoji2.jpg"
+        caption: "上台"
+      - thumb: "shaoji3_240.jpg"
+        big: "shaoji3.jpg"
+        caption: "切块"
+  price: 
+  description: "使用农庄自养的足有5，6斤靓鸡烧。香脆多汁，鸡味十足。由于制作步骤比较耗时，请提前一晚预约。" 
+  logion: '莫笑农家腊酒浑，丰年留客足鸡豚。
+           山重水复疑无路，柳暗花明又一村。
+                     ———宋.陆游 《游山西村》
+      ' 
+geshuizhengji:
+  images:
+  price: 
+  description: 
+  logion: '少无适俗韵，性本爱丘山。
+      　　误落尘网中，一去三十年。
+      　　羁鸟恋旧林，池鱼思故渊。
+                     ———晋·陶渊明《归园田居》
+          '
+sangnaji:
+  images:
+      - thumb: "sangnaji_240.jpg"
+        big: "sangnaji.jpg"
+        caption: "大家围埋坐，气氛足"
+      - thumb: "sangnaji2_240.jpg"
+        big: "sangnaji2.jpg"
+        caption: ""
+      - thumb: "sangnaya_240.jpg"
+        big: "sangnaya.jpg"
+        caption: ""
+  price: 
+  description: "桑拿吃法，最能体现食物材料好坏" 
+  logion: '狗吠深巷中，鸡鸣桑树颠。
+      　　户庭无尘杂，虚室有余闲。
+      　　久在樊笼里，复得返自然。
+                     ———晋·陶渊明 《归园田居》
+      '
+
+shajiangji:
+  images:
+      - thumb: "shanjiangji_240.jpg"
+        big: "shanjiangji.jpg"
+        caption: "上台"
+  price: 
+  description: '鲜甜的鸡肉配农庄腌制的沙姜汁，一级棒的哦' 
+  logion: '
+      唧唧复唧唧，木兰当户织。不闻机杼声，惟闻女叹息。问女何所思，问女何所忆。女亦无所思，女亦无所忆。昨夜见军帖，可汗大点兵，军书十二卷，卷卷有爷名。阿爷无大儿，木兰无长兄，愿为市鞍马，从此替爷征。
+                     ———南北朝·佚名 《木兰诗》
+      ' 
+yanjuji:
+  images:
+  price: 
+  description: 
+  logion: '
+     东市买骏马，西市买鞍鞯，南市买辔头，北市买长鞭。旦辞爷娘去，暮宿黄河边，不闻爷娘唤女声，但闻黄河流水鸣溅溅。旦辞黄河去，暮至黑山头，不闻爷娘唤女声，但闻燕山胡骑鸣啾啾。 
+                     ———南北朝·佚名 《木兰诗》
+      ' 
+baiqieji:
+  images:
+      - thumb: "baiqieji_240.jpg"
+        big: "baiqieji.jpg"
+        caption: "白切鸡"
+  price: 
+  description: "白切鸡,5,6斤的靓鸡,鸡味足,分量大,农庄一个招牌菜" 
+  logion: '
+     万里赴戎机，关山度若飞。朔气传金柝，寒光照铁衣。将军百战死，壮士十年归。 
+                     ———南北朝·佚名 《木兰诗》
+      ' 
+yezijiwo:
+  images:
+  price: 
+  description: 
+  logion: '
+      归来见天子，天子坐明堂。策勋十二转，赏赐百千强。可汗问所欲，木兰不用尚书郎，愿驰千里足，送儿还故乡。
+                     ———南北朝·佚名 《木兰诗》
+      ' 
+
+rongshejiwo:
+  images:
+  price: 
+  description: "由于材料特别，该菜式需预约时咨询是否提供，请提前预约"
+  logion: '
+        爷娘闻女来，出郭相扶将；阿姊闻妹来，当户理红妆；小弟闻姊来，磨刀霍霍向猪羊。开我东阁门，坐我西阁床，脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。出门看火伴，火伴皆惊忙：同行十二年，不知木兰是女郎。
+                     ———南北朝·佚名 《木兰诗》
+      ' 

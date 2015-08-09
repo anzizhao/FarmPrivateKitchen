@@ -1,0 +1,75 @@
+suancaiyu:
+  images:
+  price: 
+  description: 
+  logion: '
+        雾凇沆砀，天与云与山与水，上下一白。湖上影子，惟长堤一痕、湖心亭一点、与余舟一芥、舟中人两三粒而已。 
+             ———明代·张代《湖心亭看雪》
+  ' 
+shuizhuyu:
+  images:
+  price: 
+  description: 
+  logion: '
+      常记溪亭日暮，沉醉不知归路，
+      兴尽晚回舟，误入藕花深处。
+      争渡，争渡，惊起一滩鸥鹭。
+             ———宋代·李清照《如梦令 常记溪亭看暮》
+
+      ' 
+jiangcongmenwanyu:
+  images:
+  price: 
+  description: 
+  logion: '
+     你瞧这些白云聚了又散，散了又聚，人生离合，亦复如斯。 
+             ———金庸 《神雕侠侣》
+      ' 
+qingzhengdawanyu:
+  images:
+      - thumb: "qingzhengdawanyu_240.jpg"
+        big: "qingzhengdawanyu.jpg"
+        caption: "清蒸大腕鱼"
+      - thumb: "qingzhengdawanyu2_240.jpg"
+        big: "qingzhengdawanyu2.jpg"
+        caption: "清蒸大腕鱼"
+  price: 
+  description: '鱼肉鲜甜，没有泥腥味，为农庄一个招牌菜' 
+  logion: '
+      慧极必伤，情深不寿，强极则辱，谦谦君子，温润如玉。
+             ———金庸 《书剑恩仇录》
+      ' 
+qingzhengluofeiyu:
+  images:
+  price: 
+  description: 
+  logion: '
+      我是一文不值，狗屁不如。你呢，就有如狗屁，值得一闻！
+             ———金庸 《鹿鼎记》
+      ' 
+zhaduochunyu:
+  images:
+      - thumb: "zhaduochunyu_240.jpg"
+        big: "zhaduochunyu.jpg"
+        caption: "炸多春鱼"
+  price: 
+  description: '可煎可炸，香脆可口' 
+  logion: '
+    有匪君子，如切如磋，如琢如磨 《诗经.卫风.淇奥》
+'
+datouyutaocan:
+  images:
+      - thumb: "zhayugu_240.jpg"
+        big: "zhayugu.jpg"
+        caption: "炸鱼骨"
+      - thumb: "zhayubing_240.jpg"
+        big: "zhayubing.jpg"
+        caption: "炸鱼饼"
+      - thumb: "yutou_240.jpg"
+        big: "yutou.jpg"
+        caption: "剁椒鱼头"
+  price: 
+  description: "一条大头鱼3个菜，美味又实惠" 
+  logion: " 
+            生活有度,人生添寿   ————书摘
+        "

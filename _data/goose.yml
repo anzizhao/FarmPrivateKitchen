@@ -1,0 +1,38 @@
+wubeie:
+  images:
+  price:
+  description: 
+  logion: " 
+     发丘印，摸金符，搬山卸岭寻龙诀 
+             ———天下霸唱《鬼吹灯》
+    摸金、卸岭、发丘、搬山是四大盗墓门派,发丘印是发丘天官的一枚铜印,摸金符是摸金校尉挂的符,寻龙诀为摸金校尉确定墓所在的依据.
+      "
+xiangyufanshumene:
+  images:
+      - thumb: "mene_240.jpg"
+        big: "mene.jpg"
+        caption: "上台"
+  price: 29.00
+  description: "俗话说：\"天上的鹅肉，地上的驴肉\"。鹅肉被称为\"世界绿色食品之王\"。香芋蕃薯加上鹅肉香气逼人，足够的分量让人满载而归。 " 
+  logion:  '
+      世代传承的意志，时代的变迁，人的梦想，这些都是无法阻止的。
+                                        ————哥尔.D.罗杰 漫画《海贼王》                                 
+      '
+sangnae:
+  images:
+      - thumb: "sangnaji_240.jpg"
+        big: "sangnaji.jpg"
+        caption: "大家围埋坐，气氛足"
+      - thumb: "sangnaji2_240.jpg"
+        big: "sangnaji2.jpg"
+        caption: ""
+      - thumb: "sangnaya_240.jpg"
+        big: "sangnaya.jpg"
+        caption: ""
+  price: 
+  description: "桑拿吃法，最能体现食物材料好坏" 
+  logion: ' 
+      咱们多少次与价值连城明器擦肩, 总以捡芝麻为由,整个整个的糟蹋西瓜, 贪污浪费是极大的犯罪. 我这人太耿直,除割肉疼,就属掏钱疼.从今以后咱不能明知故犯,这次无论如何都要狠狠捞上一笔.我早已经为此做好排除万难准备. 管它是上九天揽月, 还是下五洋捉鳖. 咱都豁出去了. 
+
+             ———天下霸唱《鬼吹灯》
+         '

@@ -8,3 +8,71 @@ shajiangya:
   logion: "言必信，行必果。————《论语·子路》"
 
     
+liangguaya:
+  images:
+  price: 
+  description: "&nbsp;&nbsp;美味可口，人见人爱" 
+  logion: 
+
+xiangyushuzaiwenya:
+  images:
+  price: 
+  description: 
+  logion: 
+
+baiqieya:
+  images:
+  price: 
+  description: 
+  logion: 
+
+suanluobolaoyaguo:
+  images:
+      - thumb: "suanluobo-240.jpg"
+        big: "suanluobo.jpg"
+        caption: "上台"
+      - thumb: "suanluobo2-240.jpg"
+        big: "suanluobo2.jpg"
+        caption: "上台"
+  price: 
+  description: "特色菜，可喝汤可吃肉，还可以往汤加粉面" 
+  logion: "松叶堪为酒，春来酿几多。
+      　　不辞山路远，踏雪也相过。
+                    ————唐.张九龄 《答陆澧》
+      "
+
+sangnaya:
+  images:
+      - thumb: "sangnaji_240.jpg"
+        big: "sangnaji.jpg"
+        caption: "大家围埋坐，气氛足"
+      - thumb: "sangnaji2_240.jpg"
+        big: "sangnaji2.jpg"
+        caption: ""
+      - thumb: "sangnaya_240.jpg"
+        big: "sangnaya.jpg"
+        caption: ""
+  price: 
+  description: "桑拿吃法，最能体现食物材料好坏" 
+  logion: '众鸟高飞尽，孤云独去闲。
+      　　相看两不厌，唯有敬亭山。
+                        ————唐·李白 《独坐敬亭山》"
+      '
+
+muguaya:
+  images:
+  price: 
+  description: 
+  logion: 
+
+bawanghuawenya:
+  images:
+  price: 
+  description: 
+  logion: 
+
+ganbianya:
+  images:
+  price: 
+  description: 
+  logion: 

@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "菜单&菜式" 
+- title: "菜单" 
   url: "/MenuCuisine/"
   side: left
   dropdown:
