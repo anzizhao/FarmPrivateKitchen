@@ -11,7 +11,7 @@ quandangao:
 dundan:
   images:
       - thumb: "dundan_240.jpg"
-        big: "dundan.jpg"
+        big: "dundan_1024.jpg"
         caption: "炖蛋"
   price: 
   description: "使用农庄新鲜鸡蛋炖" 
@@ -23,10 +23,10 @@ dundan:
 mugualuobosuan:
   images:
       - thumb: "mugualuobosuan_240.jpg"
-        big: "mugualuobosuan.jpg"
+        big: "mugualuobosuan_1024.jpg"
         caption: "木瓜萝卜酸"
       - thumb: "mugualuobosuan2_240.jpg"
-        big: "mugualuobosuan2.jpg"
+        big: "mugualuobosuan2_1024.jpg"
         caption: "木瓜萝卜酸"
   price: 
   description: '酸甜清新，开胃小菜' 

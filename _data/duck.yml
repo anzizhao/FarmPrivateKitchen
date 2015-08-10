@@ -28,10 +28,10 @@ baiqieya:
 
 suanluobolaoyaguo:
   images:
-      - thumb: "suanluobo-240.jpg"
+      - thumb: "suanluobo_240.jpg"
         big: "suanluobo.jpg"
         caption: "上台"
-      - thumb: "suanluobo2-240.jpg"
+      - thumb: "suanluobo2_240.jpg"
         big: "suanluobo2.jpg"
         caption: "上台"
   price: 
@@ -44,13 +44,13 @@ suanluobolaoyaguo:
 sangnaya:
   images:
       - thumb: "sangnaji_240.jpg"
-        big: "sangnaji.jpg"
+        big: "sangnaji_1024.jpg"
         caption: "大家围埋坐，气氛足"
       - thumb: "sangnaji2_240.jpg"
-        big: "sangnaji2.jpg"
+        big: "sangnaji2_1024.jpg"
         caption: ""
       - thumb: "sangnaya_240.jpg"
-        big: "sangnaya.jpg"
+        big: "sangnaya_1024.jpg"
         caption: ""
   price: 
   description: "桑拿吃法，最能体现食物材料好坏" 

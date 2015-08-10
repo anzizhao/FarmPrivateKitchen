@@ -12,7 +12,7 @@ xiangyufanshumene:
       - thumb: "mene_240.jpg"
         big: "mene.jpg"
         caption: "上台"
-  price: 29.00
+  price: 
   description: "俗话说：\"天上的鹅肉，地上的驴肉\"。鹅肉被称为\"世界绿色食品之王\"。香芋蕃薯加上鹅肉香气逼人，足够的分量让人满载而归。 " 
   logion:  '
       世代传承的意志，时代的变迁，人的梦想，这些都是无法阻止的。
@@ -21,13 +21,13 @@ xiangyufanshumene:
 sangnae:
   images:
       - thumb: "sangnaji_240.jpg"
-        big: "sangnaji.jpg"
+        big: "sangnaji_1024.jpg"
         caption: "大家围埋坐，气氛足"
       - thumb: "sangnaji2_240.jpg"
-        big: "sangnaji2.jpg"
+        big: "sangnaji2_1024.jpg"
         caption: ""
       - thumb: "sangnaya_240.jpg"
-        big: "sangnaya.jpg"
+        big: "sangnaya_1024.jpg"
         caption: ""
   price: 
   description: "桑拿吃法，最能体现食物材料好坏" 

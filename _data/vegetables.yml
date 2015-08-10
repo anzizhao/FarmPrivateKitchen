@@ -13,7 +13,7 @@ jielan:
 caixin:
   images:
       - thumb: "baicai_240.jpg"
-        big: "baicai.jpg"
+        big: "baicai_1024.jpg"
         caption: "菜心"
   price: 
   description: 
@@ -28,7 +28,7 @@ caixin:
 qiezi:
   images:
       - thumb: "qiezi_240.jpg"
-        big: "qiezi.jpg"
+        big: "qiezi_1024.jpg"
         caption: "茄子"
   price: 
   description: "肉末茄子" 
@@ -62,7 +62,7 @@ qiukui:
 doujiao:
   images:
       - thumb: "doujiao_240.jpg"
-        big: "doujiao.jpg"
+        big: "doujiao_1024.jpg"
         caption: "酱油豆角"
   price: 
   description: 
@@ -87,7 +87,7 @@ dongguamiao:
 yelanhua:
   images:
       - thumb: "yelanhua_240.jpg"
-        big: "yelanhua.jpg"
+        big: "yelanhua_1024.jpg"
         caption: "夜兰花"
   price: 
   description: "夜兰花清香,加瘦肉煮出来汤清甜,非常适合夏天喝" 
@@ -100,8 +100,8 @@ yelanhua:
 　　      "
 huanggua:
   images:
-      - thumb: "huaguang_240.jpg"
-        big: "huaguang.jpg"
+      - thumb: "huanggua_240.jpg"
+        big: "huanggua_1024.jpg"
         caption: "黄瓜汤"
   price: 
   description: "蔬菜时汤，一般会加点鸭血，鸡鸭内脏之类的。不要的话，可以提前跟说的" 

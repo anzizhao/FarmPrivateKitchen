@@ -6,10 +6,10 @@
     url: "/MenuCuisine/all/shaoji"
   - name: "桑拿鸡"
     url: "/MenuCuisine/all/sangnaji"
-  - name: "盐焗鸡"
-    url: "/MenuCuisine/all/yanjuji"
   - name: "沙姜鸡"
     url: "/MenuCuisine/all/shajiangji"
+  - name: "盐焗鸡"
+    url: "/MenuCuisine/all/yanjuji"
   - name: "白切鸡"
     url: "/MenuCuisine/all/baiqieji"
   - name: "隔水蒸鸡"
@@ -18,6 +18,15 @@
     url: "/MenuCuisine/all/yezijiguo"
   - name: "榕蛇鸡锅"
     url: "/MenuCuisine/all/rongshejiguo"
+
+- classify: "鹅类"
+  cuisine:
+  - name: "五杯鹅"
+    url: "/MenuCuisine/all/wubeie/"
+  - name: "桑拿鹅"
+    url: "/MenuCuisine/all/sangnae/"
+  - name: "香芋蕃薯焖鹅"
+    url: "/MenuCuisine/all/xiangyufanshumene/"
 
 - classify: "鸭类"
   cuisine:
@@ -41,14 +50,6 @@
     url: "/MenuCuisine/all/bawanghuamenya/"
     
 
-- classify: "鹅类"
-  cuisine:
-  - name: "五杯鹅"
-    url: "/MenuCuisine/all/wubeie/"
-  - name: "桑拿鹅"
-    url: "/MenuCuisine/all/sangnae/"
-  - name: "香芋蕃薯焖鹅"
-    url: "/MenuCuisine/all/xiangyufanshumene/"
 
 
 - classify: "鱼类"
@@ -59,8 +60,6 @@
     url: "/MenuCuisine/all/shuizhuyu/"
   - name: "桑拿鱼"
     url: "/MenuCuisine/all/sangnayu/"
-  - name: "姜葱焖皖鱼"
-    url: "/MenuCuisine/all/jiangcongmenwanyu/"
   - name: "清蒸大腕鱼"
     url: "/MenuCuisine/all/qingzhengdawanyu/"
   - name: "清蒸罗绯鱼"
@@ -69,6 +68,8 @@
     url: "/MenuCuisine/all/zhaduochunyu/"
   - name: "大头鱼套餐"
     url: "/MenuCuisine/all/datouyutaocan/"
+  - name: "姜葱焖皖鱼"
+    url: "/MenuCuisine/all/jiangcongmenwanyu/"
 
 - classify: "汤类"
   cuisine:
@@ -76,10 +77,10 @@
     url: "/MenuCuisine/all/tesejijiaotang/"
   - name: "特色蕉花汤"
     url: "/MenuCuisine/all/tesejiaohuatang/"
-  - name: "椰子鸡汤"
-    url: "/MenuCuisine/all/yezijitang/"
   - name: "五指毛桃鸡汤"
     url: "/MenuCuisine/all/wuzhimaotaojitang/"
+  - name: "椰子鸡汤"
+    url: "/MenuCuisine/all/yezijitang/"
 
 - classify: "蛋类"
   cuisine:
@@ -97,6 +98,7 @@
     url: "/MenuCuisine/all/tesezhadan/"
         
 - classify: "蔬菜"
+  tips: "    蔬菜做法有多种，例如白灼，炒肉，滚汤等,下面只列出一部分。点菜时可咨询"
   cuisine:
   - name: "芥兰"
     url: "/MenuCuisine/all/jielan/"
