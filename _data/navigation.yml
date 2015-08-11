@@ -18,7 +18,7 @@
     url: "/MenuCuisine/all"
 
 - title: "优惠&活动"
-  url: "/Favor-activity/"
+  url: "/activity/"
   side: left
 
 - title: "菜式研究分享"
