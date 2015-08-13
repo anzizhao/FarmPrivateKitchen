@@ -47,7 +47,7 @@ urlimg: "http://anzizhao.github.io/FarmPrivateKitchen/images/"
 # Logo size is 600x80 pixels
 #logo: "wenjilogo.png"
 #logo: "" 
-
+statistics: true
 
 # Paginates all X entries
 paginate: 5
@@ -98,6 +98,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "anzizhao"
+      weixinshare: true 
   -
     scope:
       path: ""        
@@ -107,6 +108,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false 
       author: "anzizhao"
+      weixinshare: false
 
 
 
