@@ -4,11 +4,6 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    {% if page.weixinshare %}
-    <div id='wx_pic' style='margin:0 auto;display:none;'>
-        <img src='{{ site.urlimg }}wenjilogo_300_300.png' />
-    </div>
-    {% endif %}
 	<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/styles_feeling_responsive.css">
 	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
 	
@@ -43,4 +38,9 @@
 	{% unless page.style == NULL %}
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
+    {% if page.weixinshare %}
+    <div id='wx_pic' style='margin:0 auto;display:none;'>
+        <img src='{{ site.urlimg }}wenjilogo_300_300.png' />
+    </div>
+    {% endif %}
 </head>

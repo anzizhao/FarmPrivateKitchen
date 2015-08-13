@@ -1,0 +1,10 @@
+- title: "flappy bird 游戏"
+  url: "/game/flappy-bird"
+  describe: "H5版本Flappy Bird游戏, 使用phaser框架，只需要65行代码"
+
+
+- title: "一款很逼真的水波荡漾特效"
+  url: "/game/webgl-water"
+  describe: "我可以玩一个下午"
+
+

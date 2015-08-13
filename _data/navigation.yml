@@ -25,6 +25,10 @@
   url: "/Cuisine-share/"
   side: left
 
+- title: "彩蛋"
+  url: "/somethingfunny/"
+  side: left
+
 - title: "联系" 
   url: "/contact/"
   side: right 

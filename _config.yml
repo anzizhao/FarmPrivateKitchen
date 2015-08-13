@@ -47,6 +47,9 @@ urlimg: "http://anzizhao.github.io/FarmPrivateKitchen/images/"
 # Logo size is 600x80 pixels
 #logo: "wenjilogo.png"
 #logo: "" 
+
+
+# count the website 
 statistics: true
 
 # Paginates all X entries
