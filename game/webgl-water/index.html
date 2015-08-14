@@ -15,7 +15,6 @@ Released under the MIT license
   <script src="cubemap.js"></script>
   <script src="renderer.js"></script>
   <script src="water.js"></script>
-  <script src="main.js"></script>
   <style type="text/css">
     * { -webkit-user-select: none; -moz-user-select: none; cursor: default; }
     body { font: 13px/18px Arial, sans-serif; background: black; color: white; overflow: hidden; }
@@ -25,17 +24,14 @@ Released under the MIT license
     h1 { font: bold italic 30px/30px Georgia; text-align: center; }
     h2 { font: bold italic 17px/17px Georgia; padding-top: 10px; }
     small { display: block; font-size: 11px; line-height: 15px; }
-    canvas { position: absolute; top: 100px; left: 0; }
-    #help { position: absolute; top: 100px; right: 0; bottom: 0; width: 280px; padding-right: 20px; overflow: auto; }
+    canvas { position: absolute; top: 30px; left: 0; }
+    #help { position: absolute; top: 0px; right: 0; bottom: 0; width: 280px; padding-right: 20px; overflow: auto; }
     #loading { position: absolute; left: 0; top: 50%; right: 300px; text-align: center; margin-top: -8px; }
   </style>
+  
 </head><body>
-<div style="text-align:center;clear:both">
-<script src="gg_bd_ad_720x90.js" type="text/javascript"></script>
-<script src="follow.js" type="text/javascript"></script>
-</div>
   <div id="loading">Loading...</div>
-  <div id="help">
+  <div id="help" style="display:none">
     <h1>WebGL Water</h1>
     <p>Made by <a href="http://madebyevan.com/">Evan Wallace</a></p>
     <p>This demo requires a decent graphics card and up-to-date drivers. If you can't run the demo, you can still <a href="http://youtube.com/watch?v=R0O_9bp3EKQ">see it on YouTube</a>.</p>
@@ -59,6 +55,12 @@ Released under the MIT license
     <p><small>* requires the OES_texture_float extension<br>** requires the OES_standard_derivatives extension</small></p>
     <p><small>Tile texture from <a href="http://www.flickr.com/photos/zooboing/3682834083/">zooboing</a> on Flickr</small></p>
   </div>
+  <!--<button id="pausedButton" onclick="pausedOp()"> paused </button>-->
+  <!--<button id="userSpherePhysicsButton" onclick="useSpherePhysicsOp()" > useSpherePhysics </button>-->
+  <!--<button id="drawButton" onclick="drawOp()"> draw </button>-->
+  <button id="pausedButton" > 开始/停止</button>
+  <button id="useSpherePhysicsButton" > 浮起</button>
+  <button id="drawButton" > 改变光线</button>
   <img id="tiles" src="tiles.jpg">
   <img id="xneg" src="xneg.jpg">
   <img id="xpos" src="xpos.jpg">
@@ -66,4 +68,5 @@ Released under the MIT license
   <img id="zneg" src="zneg.jpg">
   <img id="zpos" src="zpos.jpg">
   
+  <script src="main.js"></script>
 </body></html>
