@@ -12,13 +12,19 @@ liangguaya:
   images:
   price: 
   description: "&nbsp;&nbsp;美味可口，人见人爱" 
-  logion: 
+  logion: '
+          这些珍宝虽无知觉，却是历千百年而不朽。今日我在这里看着它们，将来我身子化为尘土，珍珠宝玉却仍然好好的留在人间。世上之物，是不是愈有灵性，愈不长久？    
+          ————金庸《射雕英雄传》
+      ' 
 
 xiangyushuzaiwenya:
   images:
   price: 
   description: 
-  logion: 
+  logion: '
+         郭靖：\"侠之大者，为国为民\" 
+          ————金庸《射雕英雄传》
+      ' 
 
 baiqieya:
   images:

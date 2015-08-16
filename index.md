@@ -8,7 +8,7 @@ layout: frontpage
 title: "文记农庄"
 header:
    image_fullwidth: "youqu.jpg"
-   image_fullwidth_small: "youqu_512.jpg"
+   image_fullwidth_small: "youqu_q512.jpg"
 hotTags:
     - title: '地图导航' 
       url: '/contact/index.html#navigation' 
@@ -16,7 +16,26 @@ hotTags:
       url: "/MenuCuisine/all"
     - title: "文记找你帮忙活动"
       url: "/activity/bangmangpaizhaohuodong"
+
 widgets:
+    - title: "微信朋友圈链接打开不正常"
+      text: '
+      <div>
+      暂时可以使用下面几种方法打开<br/>
+      <ul>
+      <li>
+      <span>1.<span>
+      点开朋友圈分享链接，右上角点击使用浏览器打开<br/>
+      </li>
+      <li>
+      <span>2.<span>
+      右上角点击复制链接，然后将链接粘帖微信发送自己，再点开发送的链接，也可以正常显示。这个麻烦方法可以让微信浏览器打开网页,并微信发送给好友。 
+      </li>
+      </div>
+      '
+      url: "/activity/weixinpengyouquanxianzhi"
+
+
     - title: "文记找你帮忙活动"
       text: '<p>&nbsp;&nbsp;&nbsp;&nbsp;文记农庄推出的第一个活动,新鲜有趣,快来看看. 参加活动,领取鸡蛋.妈妈再也不担心我没有鸡蛋吃了.</p>'
       url: "/activity/bangmangpaizhaohuodong"

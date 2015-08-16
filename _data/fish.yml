@@ -48,6 +48,9 @@ qingzhengdawanyu:
       - thumb: "qingzhengdawanyu2_240.jpg"
         big: "qingzhengdawanyu2_1024.jpg"
         caption: "清蒸大腕鱼"
+      - thumb: "datouyu_240.jpg"
+        big: "datouyu.jpg"
+        caption: "辣口味"
   price: 
   description: '鱼肉鲜甜，没有泥腥味，为农庄一个招牌菜' 
   logion: '

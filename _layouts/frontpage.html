@@ -38,18 +38,17 @@ format: blog-index
 
 
 
-<div class="row t60">
+<div class="row">
 <h4>最新动态: </h4>
 {% for widget in page.widgets %}
 
-
-    <div class="medium-4 columns">
+    <div class="medium-4 small-12 columns">
         <a href="{% if widget.url contains 'http' %}{{ widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ widget.url }}{% endif %}">{% if widget.image %}<img src="{{ site.urlimg }}/{{ widget.image }}" width="302" height="182" alt="">{% endif %}{% if widget.video %}{{ widget.video }}{% endif %}</a>
         <h2 class="font-size-h3 t10">{{ widget.title }}</h2>
         <p>{{ widget.text }}</p>
 
         {% if widget.url %}
-        <p><a class="button tiny radius" href="{% if widget.url contains 'http' %}{{ widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ widget.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
+        <p><a class="button tiny radius" href="{% if widget.url contains 'http' %}{{ widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ widget.url }}{% endif %}">{{ site.data.language_cn.more }}</a></p>
         {% endif %}
     </div><!-- /.medium-4.columns -->
 {% endfor %}
