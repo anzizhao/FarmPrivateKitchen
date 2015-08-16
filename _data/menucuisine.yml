@@ -70,6 +70,8 @@
     url: "/MenuCuisine/all/datouyutaocan/"
   - name: "姜葱焖皖鱼"
     url: "/MenuCuisine/all/jiangcongmenwanyu/"
+  - name: "糖醋鱼"
+    url: "/MenuCuisine/all/tangcuyu/"
 
 - classify: "汤类"
   cuisine:
@@ -118,6 +120,10 @@
     url: "/MenuCuisine/all/yelanhua/"
   - name: "黄瓜"
     url: "/MenuCuisine/all/huanggua/"
+  - name: "苦瓜"
+    url: "/MenuCuisine/all/kugua/"
+  - name: "土豆丝"
+    url: "/MenuCuisine/all/tudousi/" 
 
 - classify: "其他(甜品,小菜)"
   cuisine:

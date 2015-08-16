@@ -91,3 +91,15 @@ datouyutaocan:
   logion: " 
             生活有度,人生添寿   ————书摘
         "
+
+tangcuyu:
+  images:
+      - thumb: "tangcuyu_240.jpg"
+        big: "tangcuyu.jpg"
+        caption: "糖醋鱼"
+  price: 
+  description: "酸酸甜甜的挺开胃的" 
+  logion: " 
+            隔水高楼，望断双鱼信。
+                    ——苏轼 《蝶恋花》
+        "

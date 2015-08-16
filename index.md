@@ -18,6 +18,12 @@ hotTags:
       url: "/activity/bangmangpaizhaohuodong"
 
 widgets:
+    - title: "开心烧烤"
+      text: '
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;周六晚约家人朋友到农庄烧烤.大家都很开心</p>
+      '
+      url: "/share/kaixinshaokao"
+
     - title: "微信朋友圈链接打开不正常"
       text: '
       <div>

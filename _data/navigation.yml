@@ -17,12 +17,12 @@
   - title: "所有菜式"
     url: "/MenuCuisine/all"
 
-- title: "优惠&活动"
+- title: "活动"
   url: "/activity/"
   side: left
 
-- title: "菜式研究分享"
-  url: "/Cuisine-share/"
+- title: "农场分享"
+  url: "/share/"
   side: left
 
 - title: "彩蛋"
