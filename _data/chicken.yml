@@ -8,14 +8,14 @@ wubeiji:
 
 shaoji:
   images:
-      - thumb: "shaoji_240.jpg"
-        big: "shaoji_1024.jpg"
+      - thumb: "shaoji_q50_480.jpg"
+        big: "shaoji_q50_480.jpg"
         caption: "出炉"
-      - thumb: "shaoji2_240.jpg"
-        big: "shaoji2_1024.jpg"
+      - thumb: "shaoji2_q50_480.jpg"
+        big: "shaoji2_q50_480.jpg"
         caption: "上台"
-      - thumb: "shaoji3_240.jpg"
-        big: "shaoji3_1024.jpg"
+      - thumb: "shaoji3_q50_480.jpg"
+        big: "shaoji3_q50_480.jpg"
         caption: "切块"
   price: 
   description: "使用农庄自养的足有5，6斤靓鸡烧。香脆多汁，鸡味十足。由于制作步骤比较耗时，请提前一晚预约。" 

@@ -114,6 +114,7 @@ module.exports  = function(grunt) {
     //更新另一个目录的gh-pages分支
     grunt.registerTask('gh-cm', ['build', 'clean:ghPages', 'copy_mate:ghPages', 'gitadd:ghPages', 'gitcommit:ghPages']);
     grunt.registerTask('gh-push', ['gh-cm', 'gitpush:ghPages']);
+
     //推分支到github 
     grunt.registerTask('master-push', "grunt master-push --message= ,master 分支推到github",
                         function(){
@@ -133,7 +134,7 @@ module.exports  = function(grunt) {
                              grunt.config.set('gitcheckout.current.branch', branchName);
                              grunt.task.run(['gitadd:master','gitcommit:master','gitcheckout:current']);
                         }
-                      )
+                      );
 
 
 };
