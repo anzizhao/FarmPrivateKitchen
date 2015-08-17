@@ -124,6 +124,10 @@
     url: "/MenuCuisine/all/kugua/"
   - name: "土豆丝"
     url: "/MenuCuisine/all/tudousi/" 
+  - name: "青椒"
+    url: "/MenuCuisine/all/qingjiao/"
+  - name: "豆腐"
+    url: "/MenuCuisine/all/doufu/" 
 
 - classify: "其他(甜品,小菜)"
   cuisine:
@@ -133,3 +137,5 @@
     url: "/MenuCuisine/all/dundan/"
   - name: "木瓜萝卜酸"
     url: "/MenuCuisine/all/mugualuobosuan/"
+  - name: "炒饭"
+    url: "/MenuCuisine/all/chaofan/"

@@ -31,9 +31,9 @@ qiezi:
         caption: "茄子"
       - thumb: "qiezi2_240.jpg"
         big: "qiezi2.jpg"
-        caption: "茄子"
+        caption: "鱼香茄子"
   price: 
-  description: "肉末茄子" 
+  description: "" 
   logion: '
 　　山下孤烟远村，天边独树高原。
 　　一瓢颜回陋巷，五柳先生对门。
@@ -133,4 +133,31 @@ tudousi:
   logion: "
           独立小桥风满袖，平林新月人归后。
                     ——欧阳修 《蝶恋花》
+　　      "
+qingjiao:
+  images:
+      - thumb: "qingjiao_q50_480.jpg"
+        big: "qingjiao_q50_480.jpg"
+        caption: "青椒炒肉丝"
+  price: 
+  description: 
+  logion: "
+            移舟泊烟渚，日暮客愁新。
+　　        野旷天低树，江清月近人。
+                    ——唐·孟浩然《宿建德江》
+　　      "
+doufu:
+  images:
+      - thumb: "doufu_q50_480.jpg"
+        big: "doufu_q50_480.jpg"
+        caption: "蘸豆腐"
+      - thumb: "youdoufu_q50_480.jpg"
+        big: "youdoufu_q50_480.jpg"
+        caption: "油豆腐"
+  price: 
+  description: 
+  logion: "
+          人闲桂花落，夜静春山空。
+      　　月出惊山鸟，时鸣春涧中。
+                    ——唐 王维《鸟鸣涧》
 　　      "

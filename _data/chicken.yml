@@ -70,14 +70,14 @@ yanjuji:
       ' 
 baiqieji:
   images:
-      - thumb: "baiqieji3_240.jpg"
-        big: "baiqieji3.jpg"
+      - thumb: "baiqieji3_q50_480.jpg"
+        big: "baiqieji3_q50_480.jpg"
         caption: "白切鸡"
-      - thumb: "baiqieji2_240.jpg"
-        big: "baiqieji2.jpg"
+      - thumb: "baiqieji2_q50_480.jpg"
+        big: "baiqieji2_q50_480.jpg"
         caption: "白切鸡"
-      - thumb: "baiqieji_240.jpg"
-        big: "baiqieji_1024.jpg"
+      - thumb: "baiqieji_q50_480.jpg"
+        big: "baiqieji_q50_480.jpg"
         caption: "白切鸡"
   price: 
   description: "白切鸡,5,6斤的靓鸡,鸡味足,分量大,农庄一个招牌菜, 可选扇鸡或项鸡" 

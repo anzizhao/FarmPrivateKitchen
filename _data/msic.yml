@@ -33,3 +33,17 @@ mugualuobosuan:
   logion: '
 　　呦呦鹿鸣，食野之苹。我有嘉宾，鼓瑟吹笙。 《诗经·小雅·鹿鸣》
       ' 
+chaofan:
+  images:
+      - thumb: "chaofan_q50_480.jpg"
+        big: "chaofan_q50_480.jpg"
+        caption: "炒饭"
+      - thumb: "chaofan2_q50_480.jpg"
+        big: "chaofan2_q50_480.jpg"
+        caption: "炒饭"
+  price: 
+  description: "" 
+  logion: '
+        浮云游子意，落日故人情。 
+                —— 李白《送友人》
+      ' 
