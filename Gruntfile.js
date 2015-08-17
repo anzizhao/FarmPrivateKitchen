@@ -51,7 +51,7 @@ module.exports  = function(grunt) {
                 options: {
                     all: true,
                     cwd: "../FarmPrivateKitchen_gh-pages" 
-                },
+                }
             },
             master:{
                 options: {
@@ -65,7 +65,20 @@ module.exports  = function(grunt) {
                     cwd: "../FarmPrivateKitchen_gh-pages" ,
                     message: ghPagesCommitMessage 
                 },
+            },
+            master: {
+                options: {
+                    message:'<%= gitcommit.master.message %>' 
+                },
             }
+        },
+        gitcheckout:{
+            current:{
+                options:{
+                   create: true, 
+                   branch: '<%= gitcheckout.current.branch %>'
+                },
+            } 
         },
         gitpush: {
             ghPages: {
@@ -74,8 +87,13 @@ module.exports  = function(grunt) {
                     branch: "gh-pages",
                     cwd: "../FarmPrivateKitchen_gh-pages" 
                 }
+            },
+            master: {
+                options: {
+                    remote: "origin",
+                    branch: "master",
+                }
             }
-            
         },
     });
 
@@ -96,7 +114,26 @@ module.exports  = function(grunt) {
     //更新另一个目录的gh-pages分支
     grunt.registerTask('gh-cm', ['build', 'clean:ghPages', 'copy_mate:ghPages', 'gitadd:ghPages', 'gitcommit:ghPages']);
     grunt.registerTask('gh-push', ['gh-cm', 'gitpush:ghPages']);
-    //grunt.registerTask('uglify', ['uglify']);
-    //grunt.registerTask('jshint', ['jshint']);
+    //推分支到github 
+    grunt.registerTask('master-push', "grunt master-push --message= ,master 分支推到github",
+                        function(){
+                             var message = grunt.option("message");
+                             grunt.config.set('gitcommit.master.message', message);
+                             grunt.task.run(['gitadd:master','gitcommit:master','gitpush:master']);
+                        }
+                      );
+
+
+    //从现在基础上分支, 不知道这个是否同步的,后面在确定
+    grunt.registerTask("newbranch", "grunt newbranch --branch=  --message= 基于现在分支建立新分支b, 分支提交使用m信息",
+                        function () {
+                             var branchName = grunt.option("branch"); 
+                             var message = grunt.option("message");
+                             grunt.config.set('gitcommit.master.message', message);
+                             grunt.config.set('gitcheckout.current.branch', branchName);
+                             grunt.task.run(['gitadd:master','gitcommit:master','gitcheckout:current']);
+                        }
+                      )
+
 
 };
