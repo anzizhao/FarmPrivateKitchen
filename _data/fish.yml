@@ -19,14 +19,14 @@ shuizhuyu:
       ' 
 sangnayu:
   images:
-      - thumb: "sangnaji_240.jpg"
-        big: "sangnaji_1024.jpg"
+      - thumb: "sangnaji_q50_480.jpg"
+        big: "sangnaji_q50_480.jpg"
         caption: "大家围埋坐，气氛足"
-      - thumb: "sangnaji2_240.jpg"
-        big: "sangnaji2_1024.jpg"
+      - thumb: "sangnaji2_q50_480.jpg"
+        big: "sangnaji2_q50_480.jpg"
         caption: ""
-      - thumb: "sangnaya_240.jpg"
-        big: "sangnaya_1024.jpg"
+      - thumb: "sangnaya_q50_480.jpg"
+        big: "sangnaya_q50_480.jpg"
         caption: ""
   price: 
   description: "桑拿吃法，最能体现食物材料好坏" 
@@ -42,13 +42,13 @@ jiangcongmenwanyu:
       ' 
 qingzhengdawanyu:
   images:
-      - thumb: "qingzhengdawanyu_240.jpg"
+      - thumb: "qingzhengdawanyu_q50_480.jpg"
         big: "qingzhengdawanyu_1024.jpg"
         caption: "清蒸大腕鱼"
-      - thumb: "qingzhengdawanyu2_240.jpg"
+      - thumb: "qingzhengdawanyu2_q50_480.jpg"
         big: "qingzhengdawanyu2_1024.jpg"
         caption: "清蒸大腕鱼"
-      - thumb: "datouyu_240.jpg"
+      - thumb: "datouyu_q50_480.jpg"
         big: "datouyu.jpg"
         caption: "辣口味"
   price: 
@@ -67,7 +67,7 @@ qingzhengluofeiyu:
       ' 
 zhaduochunyu:
   images:
-      - thumb: "zhaduochunyu_240.jpg"
+      - thumb: "zhaduochunyu_q50_480.jpg"
         big: "zhaduochunyu.jpg"
         caption: "炸多春鱼"
   price: 
@@ -77,13 +77,13 @@ zhaduochunyu:
 '
 datouyutaocan:
   images:
-      - thumb: "zhayugu_240.jpg"
+      - thumb: "zhayugu_q50_480.jpg"
         big: "zhayugu_1024.jpg"
         caption: "炸鱼骨"
-      - thumb: "zhayubing_240.jpg"
+      - thumb: "zhayubing_q50_480.jpg"
         big: "zhayubing_1024.jpg"
         caption: "炸鱼饼"
-      - thumb: "yutou_240.jpg"
+      - thumb: "yutou_q50_480.jpg"
         big: "yutou_1024.jpg"
         caption: "剁椒鱼头"
   price: 
@@ -94,7 +94,7 @@ datouyutaocan:
 
 tangcuyu:
   images:
-      - thumb: "tangcuyu_240.jpg"
+      - thumb: "tangcuyu_q50_480.jpg"
         big: "tangcuyu.jpg"
         caption: "糖醋鱼"
   price: 

@@ -111,7 +111,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false 
       author: "anzizhao"
-      weixinshare: false
+      weixinshare: true 
 
 
 

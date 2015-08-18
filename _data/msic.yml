@@ -1,7 +1,7 @@
 quandangao:
   images:
-      - thumb: "quandangao_240.jpg"
-        big: "quandangao.jpg"
+      - thumb: "quandangao_q50_480.jpg"
+        big: "quandangao_q50_480.jpg"
         caption: "全蛋糕"
   price: 
   description: "不加水，全用农庄鸡蛋做成的发糕" 
@@ -10,8 +10,8 @@ quandangao:
       ' 
 dundan:
   images:
-      - thumb: "dundan_240.jpg"
-        big: "dundan_1024.jpg"
+      - thumb: "dundan_q50_480.jpg"
+        big: "dundan_q50_480.jpg"
         caption: "炖蛋"
   price: 
   description: "使用农庄新鲜鸡蛋炖" 
@@ -22,11 +22,8 @@ dundan:
       ' 
 mugualuobosuan:
   images:
-      - thumb: "mugualuobosuan_240.jpg"
-        big: "mugualuobosuan_1024.jpg"
-        caption: "木瓜萝卜酸"
-      - thumb: "mugualuobosuan2_240.jpg"
-        big: "mugualuobosuan2_1024.jpg"
+      - thumb: "mugualuobosuan_q50_480.jpg"
+        big: "mugualuobosuan_q50_480.jpg"
         caption: "木瓜萝卜酸"
   price: 
   description: '酸甜清新，开胃小菜' 

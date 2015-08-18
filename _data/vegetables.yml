@@ -1,7 +1,7 @@
 jielan:
   images:
-      - thumb: "jielan_240.jpg"
-        big: "jielan.jpg"
+      - thumb: "jielan_q50_480.jpg"
+        big: "jielan_q50_480.jpg"
         caption: "芥兰"
   price: 
   description: 
@@ -11,8 +11,8 @@ jielan:
       ' 
 caixin:
   images:
-      - thumb: "baicai_240.jpg"
-        big: "baicai_1024.jpg"
+      - thumb: "baicai_q50_480.jpg"
+        big: "baicai_q50_480.jpg"
         caption: "菜心"
   price: 
   description: 
@@ -26,11 +26,11 @@ caixin:
 
 qiezi:
   images:
-      - thumb: "qiezi_240.jpg"
-        big: "qiezi_1024.jpg"
+      - thumb: "qiezi_q50_480.jpg"
+        big: "qiezi_q50_480.jpg"
         caption: "茄子"
-      - thumb: "qiezi2_240.jpg"
-        big: "qiezi2.jpg"
+      - thumb: "qiezi2_q50_480.jpg"
+        big: "qiezi2_q50_480.jpg"
         caption: "鱼香茄子"
   price: 
   description: "" 
@@ -63,8 +63,8 @@ qiukui:
       ' 
 doujiao:
   images:
-      - thumb: "doujiao_240.jpg"
-        big: "doujiao_1024.jpg"
+      - thumb: "doujiao_q50_480.jpg"
+        big: "doujiao_q50_480.jpg"
         caption: "酱油豆角"
   price: 
   description: 
@@ -88,8 +88,8 @@ dongguamiao:
       '
 yelanhua:
   images:
-      - thumb: "yelanhua_240.jpg"
-        big: "yelanhua_1024.jpg"
+      - thumb: "yelanhua_q50_480.jpg"
+        big: "yelanhua_q50_480.jpg"
         caption: "夜兰花"
   price: 
   description: "夜兰花清香,加瘦肉煮出来汤清甜,非常适合夏天喝" 
@@ -102,8 +102,8 @@ yelanhua:
 　　      "
 huanggua:
   images:
-      - thumb: "huanggua_240.jpg"
-        big: "huanggua_1024.jpg"
+      - thumb: "huanggua_q50_480.jpg"
+        big: "huanggua_q50_480.jpg"
         caption: "黄瓜汤"
   price: 
   description: "蔬菜时汤，一般会加点鸭血，鸡鸭内脏之类的。不要的话，可以提前跟说的" 
@@ -114,8 +114,8 @@ huanggua:
 　　      "
 kugua:
   images:
-      - thumb: "kugua_240.jpg"
-        big: "kugua.jpg"
+      - thumb: "kugua_q50_480.jpg"
+        big: "kugua_q50_480.jpg"
         caption: "苦瓜"
   price: 
   description: 
@@ -125,8 +125,8 @@ kugua:
 　　      "
 tudousi:
   images:
-      - thumb: "tudousi_240.jpg"
-        big: "tudousi.jpg"
+      - thumb: "tudousi_q50_480.jpg"
+        big: "tudousi_q50_480.jpg"
         caption: "土豆丝"
   price: 
   description: 

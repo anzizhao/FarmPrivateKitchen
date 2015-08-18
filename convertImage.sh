@@ -15,7 +15,7 @@ function readDir()
 
 
 dir="."
-width=320
+width=480
 quality=50
 if [ -n "$1" ]; then
     dir=$1

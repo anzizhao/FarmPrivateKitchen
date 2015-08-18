@@ -24,8 +24,8 @@ wuzhimaotaojitang:
       
 yezijitang:
   images:
-      - thumb: "yezijitang_240.jpg"
-        big: "yezijitang_1024.jpg"
+      - thumb: "yezijitang_q50_480.jpg"
+        big: "yezijitang_q50_480.jpg"
         caption: "真是一大锅"
   price: 
   description: "真是一大锅" 
