@@ -95,6 +95,21 @@ module.exports  = function(grunt) {
                 }
             }
         },
+        gitpull: {
+            ghPages: {
+                options: {
+                    remote: "origin",
+                    branch: "gh-pages",
+                    cwd: "../FarmPrivateKitchen_gh-pages" 
+                }
+            },
+            master: {
+                options: {
+                    remote: "origin",
+                    branch: "master",
+                }
+            }
+        }
     });
 
     // 加载包含 "uglify" 任务的插件。
@@ -114,6 +129,7 @@ module.exports  = function(grunt) {
     //更新另一个目录的gh-pages分支
     grunt.registerTask('gh-cm', ['build', 'clean:ghPages', 'copy_mate:ghPages', 'gitadd:ghPages', 'gitcommit:ghPages']);
     grunt.registerTask('gh-push', ['gh-cm', 'gitpush:ghPages']);
+    grunt.registerTask('pull', ['gitpull']);
 
     //推分支到github 
     grunt.registerTask('master-push', "grunt master-push --message= ,master 分支推到github",
