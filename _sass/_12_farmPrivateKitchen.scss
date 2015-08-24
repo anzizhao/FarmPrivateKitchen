@@ -63,7 +63,13 @@
 }
 .ds-control-group{
     margin: 0 0 0 0 !important;
-};
+}
+#ds-dialog-email{
+    display:none;
+}
+#ds-dialog-email ~ label{
+    display:none;
+}
 /*#ds-reset .ds-avatar img:hover {*/
     /*-webkit-transform: rotateZ(360deg);*/
     /*-moz-transform: rotateZ(360deg);*/

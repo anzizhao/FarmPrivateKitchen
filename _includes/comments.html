@@ -34,6 +34,13 @@
             (document.getElementsByTagName('head')[0] 
              || document.getElementsByTagName('body')[0]).appendChild(ds);
         })();
+        (function() {
+            $('.ds-post-button').live('touchstart', function(){
+                if($("#ds-dialog-email").length>0){
+                    $("#ds-dialog-email").attr("value", "11234@126.com"); 
+                }
+            }) 
+        })();
     </script>
     <!-- 多说公共JS代码 end -->
 </div>
