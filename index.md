@@ -14,15 +14,15 @@ hotTags:
       url: '/contact/index.html#navigation' 
     - title: "菜单"
       url: "/MenuCuisine/all"
-    - title: "文记找你帮忙活动"
-      url: "/activity/bangmangpaizhaohuodong"
+    - title: "私房菜之道"
+      url: "/share/yangjichang"
 
 widgets:
-    - title: "开心烧烤"
+    - title: "私房菜之道"
       text: '
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;周六晚约家人朋友到农庄烧烤.大家都很开心</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;带大家了解一下农庄的养鸡环境</p>
       '
-      url: "/share/kaixinshaokao"
+      url: "/share/yangjichang"
 
     - title: "微信朋友圈链接打开不正常"
       text: '
@@ -41,6 +41,11 @@ widgets:
       '
       url: "/activity/weixinpengyouquanxianzhi"
 
+    - title: "开心烧烤"
+      text: '
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;周六晚约家人朋友到农庄烧烤.大家都很开心</p>
+      '
+      url: "/share/kaixinshaokao"
 
     - title: "文记找你帮忙活动"
       text: '<p>&nbsp;&nbsp;&nbsp;&nbsp;文记农庄推出的第一个活动,新鲜有趣,快来看看. 参加活动,领取鸡蛋.妈妈再也不担心我没有鸡蛋吃了.</p>'
