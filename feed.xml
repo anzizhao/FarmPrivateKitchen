@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>文记农庄</title>
-    <description>提供农庄的最新资讯,记录这里发生一切</description>
+    <description>提供农庄资讯,分享农庄趣事</description>
     <link>https://anzizhao.github.io/FarmPrivateKitchen/</link>
     <atom:link href="https://anzizhao.github.io/FarmPrivateKitchen/feed.xml" rel="self" type="application/rss+xml" />
     
